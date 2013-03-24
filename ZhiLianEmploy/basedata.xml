@@ -1,0 +1,1782 @@
+<?xml version="1.0"?>
+<root>
+  <basedata>
+    <city>
+      <firstLevel>
+        <item code="530">北京</item>
+        <item code="538">上海</item>
+        <item code="763">广州</item>
+        <item code="765">深圳</item>
+        <item code="531">天津</item>
+        <item code="551">重庆</item>
+        <item code="854">西安</item>
+        <item code="801">成都</item>
+        <item code="719">郑州</item>
+        <item code="600">大连</item>
+        <item code="613">长春</item>
+        <item code="599">沈阳</item>
+        <item code="622">哈尔滨</item>
+        <item code="736">武汉</item>
+        <item code="635">南京</item>
+        <item code="702">济南</item>
+        <item code="703">青岛</item>
+        <item code="653">杭州</item>
+        <item code="639">苏州</item>
+        <item code="636">无锡</item>
+        <item code="654">宁波</item>
+        <item code="749">长沙</item>
+        <item code="681">福州</item>
+        <item code="682">厦门</item>
+        <item code="565">石家庄</item>
+        <item code="664">合肥</item>
+        <item code="773">惠州</item>
+        <item code="548">广东省</item>
+        <item code="535">辽宁省</item>
+        <item code="536">吉林省</item>
+        <item code="537">黑龙江省</item>
+        <item code="534">内蒙古自治区</item>
+        <item code="532">河北省</item>
+        <item code="545">河南省</item>
+        <item code="544">山东省</item>
+        <item code="533">山西省</item>
+        <item code="556">陕西省</item>
+        <item code="552">四川省</item>
+        <item code="546">湖北省</item>
+        <item code="547">湖南省</item>
+        <item code="539">江苏省</item>
+        <item code="540">浙江省</item>
+        <item code="541">安徽省</item>
+        <item code="542">福建省</item>
+        <item code="543">江西省</item>
+        <item code="553">贵州省</item>
+        <item code="554">云南省</item>
+        <item code="549">广西壮族自治区</item>
+        <item code="550">海南省</item>
+        <item code="557">甘肃省</item>
+        <item code="558">青海省</item>
+        <item code="555">西藏自治区</item>
+        <item code="559">宁夏回族自治区</item>
+        <item code="560">新疆维吾尔自治区</item>
+        <item code="561">香港特别行政区</item>
+        <item code="562">澳门特别行政区</item>
+        <item code="563">台湾省</item>
+        <item code="480">国外</item>
+      </firstLevel>
+      <secondLevel>
+        <item parent="530" code="530">北京</item>
+        <item parent="530" code="2001">北京,东城区</item>
+        <item parent="530" code="2002">北京,西城区</item>
+        <item parent="530" code="2003">北京,崇文区</item>
+        <item parent="530" code="2004">北京,宣武区</item>
+        <item parent="530" code="2005">北京,海淀区</item>
+        <item parent="530" code="2006">北京,朝阳区</item>
+        <item parent="530" code="2007">北京,丰台区</item>
+        <item parent="530" code="2008">北京,石景山区</item>
+        <item parent="530" code="2009">北京,通州区</item>
+        <item parent="530" code="2010">北京,顺义区</item>
+        <item parent="530" code="2011">北京,房山区</item>
+        <item parent="530" code="2012">北京,大兴区</item>
+        <item parent="530" code="2013">北京,昌平区</item>
+        <item parent="530" code="2014">北京,怀柔区</item>
+        <item parent="530" code="2015">北京,平谷区</item>
+        <item parent="530" code="2016">北京,门头沟区</item>
+        <item parent="530" code="2017">北京,密云县</item>
+        <item parent="530" code="2018">北京,延庆县</item>
+        <item parent="538" code="538">上海</item>
+        <item parent="538" code="2019">上海,黄浦区</item>
+        <item parent="538" code="2020">上海,卢湾区</item>
+        <item parent="538" code="2021">上海,徐汇区</item>
+        <item parent="538" code="2022">上海,长宁区</item>
+        <item parent="538" code="2023">上海,静安区</item>
+        <item parent="538" code="2024">上海,普陀区</item>
+        <item parent="538" code="2025">上海,闸北区</item>
+        <item parent="538" code="2026">上海,虹口区</item>
+        <item parent="538" code="2027">上海,杨浦区</item>
+        <item parent="538" code="2028">上海,闵行区</item>
+        <item parent="538" code="2029">上海,宝山区</item>
+        <item parent="538" code="2030">上海,嘉定区</item>
+        <item parent="538" code="2031">上海,浦东新区</item>
+        <item parent="538" code="2032">上海,金山区</item>
+        <item parent="538" code="2033">上海,松江区</item>
+        <item parent="538" code="2034">上海,青浦区</item>
+        <item parent="538" code="2035">上海,奉贤区</item>
+        <item parent="538" code="2036">上海,崇明县</item>
+        <item parent="765" code="765">深圳</item>
+        <item parent="765" code="2037">深圳,福田区</item>
+        <item parent="765" code="2038">深圳,罗湖区</item>
+        <item parent="765" code="2039">深圳,南山区</item>
+        <item parent="765" code="2040">深圳,盐田区</item>
+        <item parent="765" code="2041">深圳,宝安区</item>
+        <item parent="765" code="2042">深圳,龙岗区</item>
+        <item parent="765" code="2043">深圳,坪山新区</item>
+        <item parent="765" code="2044">深圳,光明新区</item>
+        <item parent="763" code="763">广州</item>
+        <item parent="763" code="2045">广州,越秀区</item>
+        <item parent="763" code="2046">广州,海珠区</item>
+        <item parent="763" code="2047">广州,荔湾区</item>
+        <item parent="763" code="2048">广州,天河区</item>
+        <item parent="763" code="2049">广州,白云区</item>
+        <item parent="763" code="2050">广州,黄埔区</item>
+        <item parent="763" code="2051">广州,番禺区</item>
+        <item parent="763" code="2052">广州,花都区</item>
+        <item parent="763" code="2053">广州,萝岗区</item>
+        <item parent="763" code="2054">广州,南沙区</item>
+        <item parent="736" code="736">武汉</item>
+        <item parent="736" code="2057">武汉,江岸区</item>
+        <item parent="736" code="2058">武汉,江汉区</item>
+        <item parent="736" code="2059">武汉,硚口区</item>
+        <item parent="736" code="2060">武汉,汉阳区</item>
+        <item parent="736" code="2061">武汉,武昌区</item>
+        <item parent="736" code="2062">武汉,青山区</item>
+        <item parent="736" code="2063">武汉,洪山区</item>
+        <item parent="736" code="2064">武汉,蔡甸区</item>
+        <item parent="736" code="2065">武汉,东西湖区</item>
+        <item parent="736" code="2066">武汉,汉南区</item>
+        <item parent="736" code="2067">武汉,江夏区</item>
+        <item parent="736" code="2068">武汉,黄陂区</item>
+        <item parent="736" code="2069">武汉,新洲区</item>
+        <item parent="854" code="854">西安</item>
+        <item parent="854" code="2070">西安,新城区</item>
+        <item parent="854" code="2071">西安,碑林区</item>
+        <item parent="854" code="2072">西安,莲湖区</item>
+        <item parent="854" code="2073">西安,雁塔区</item>
+        <item parent="854" code="2074">西安,未央区</item>
+        <item parent="854" code="2075">西安,灞桥区</item>
+        <item parent="854" code="2076">西安,长安区</item>
+        <item parent="854" code="2077">西安,阎良区</item>
+        <item parent="854" code="2078">西安,临潼区</item>
+        <item parent="854" code="2079">西安,蓝田县</item>
+        <item parent="854" code="2080">西安,周至县</item>
+        <item parent="854" code="2081">西安,户县</item>
+        <item parent="854" code="2082">西安,高陵县</item>
+        <item parent="854" code="2083">西安,沣渭新区</item>
+        <item parent="635" code="635">南京</item>
+        <item parent="635" code="2084">南京,玄武区</item>
+        <item parent="635" code="2085">南京,白下区</item>
+        <item parent="635" code="2086">南京,秦淮区</item>
+        <item parent="635" code="2087">南京,建邺区</item>
+        <item parent="635" code="2088">南京,鼓楼区</item>
+        <item parent="635" code="2089">南京,下关区</item>
+        <item parent="635" code="2090">南京,浦口区</item>
+        <item parent="635" code="2091">南京,六合区</item>
+        <item parent="635" code="2092">南京,栖霞区</item>
+        <item parent="635" code="2093">南京,雨花台区</item>
+        <item parent="635" code="2094">南京,江宁区</item>
+        <item parent="635" code="2095">南京,溧水县</item>
+        <item parent="635" code="2096">南京,高淳县</item>
+        <item parent="702" code="702">济南</item>
+        <item parent="702" code="2097">济南,市中区</item>
+        <item parent="702" code="2098">济南,历下区</item>
+        <item parent="702" code="2099">济南,天桥区</item>
+        <item parent="702" code="2100">济南,槐荫区</item>
+        <item parent="702" code="2101">济南,历城区</item>
+        <item parent="702" code="2102">济南,长清区</item>
+        <item parent="702" code="2103">济南,平阴县</item>
+        <item parent="702" code="2104">济南,济阳县</item>
+        <item parent="702" code="2105">济南,商河县</item>
+        <item parent="801" code="801">成都</item>
+        <item parent="801" code="2107">成都,青羊区</item>
+        <item parent="801" code="2108">成都,锦江区</item>
+        <item parent="801" code="2109">成都,金牛区</item>
+        <item parent="801" code="2110">成都,武侯区</item>
+        <item parent="801" code="2111">成都,成华区</item>
+        <item parent="801" code="2112">成都,龙泉驿区</item>
+        <item parent="801" code="2113">成都,青白江区</item>
+        <item parent="801" code="2114">成都,新都区</item>
+        <item parent="801" code="2115">成都,温江区</item>
+        <item parent="801" code="2116">成都,双流县</item>
+        <item parent="801" code="2117">成都,郫县</item>
+        <item parent="801" code="2118">成都,金堂县</item>
+        <item parent="801" code="2119">成都,大邑县</item>
+        <item parent="801" code="2120">成都,蒲江县</item>
+        <item parent="801" code="2121">成都,新津县</item>
+        <item parent="599" code="599">沈阳</item>
+        <item parent="599" code="2126">沈阳,和平区</item>
+        <item parent="599" code="2127">沈阳,沈河区</item>
+        <item parent="599" code="2128">沈阳,皇姑区</item>
+        <item parent="599" code="2129">沈阳,大东区</item>
+        <item parent="599" code="2130">沈阳,铁西区</item>
+        <item parent="599" code="2131">沈阳,浑南新区</item>
+        <item parent="599" code="2132">沈阳,东陵区</item>
+        <item parent="599" code="2133">沈阳,于洪区</item>
+        <item parent="599" code="2134">沈阳,沈北新区</item>
+        <item parent="599" code="2135">沈阳,苏家屯区</item>
+        <item parent="613" code="613">长春</item>
+        <item parent="613" code="2140">长春,南关区</item>
+        <item parent="613" code="2141">长春,宽城区</item>
+        <item parent="613" code="2142">长春,朝阳区</item>
+        <item parent="613" code="2143">长春,二道区</item>
+        <item parent="613" code="2144">长春,绿园区</item>
+        <item parent="613" code="2145">长春,高新开发区</item>
+        <item parent="613" code="2146">长春,经济开发区</item>
+        <item parent="613" code="2147">长春,汽车产业开发区</item>
+        <item parent="613" code="2148">长春,双阳区</item>
+        <item parent="703" code="703">青岛</item>
+        <item parent="703" code="2153">青岛,市南区</item>
+        <item parent="703" code="2154">青岛,市北区</item>
+        <item parent="703" code="2155">青岛,四方区</item>
+        <item parent="703" code="2156">青岛,李沧区</item>
+        <item parent="703" code="2157">青岛,黄岛区</item>
+        <item parent="703" code="2158">青岛,崂山区</item>
+        <item parent="703" code="2159">青岛,城阳区</item>
+        <item parent="703" code="2160">青岛,胶州市</item>
+        <item parent="703" code="2161">青岛,即墨市</item>
+        <item parent="703" code="2162">青岛,平度市</item>
+        <item parent="703" code="2163">青岛,胶南市</item>
+        <item parent="703" code="2164">青岛,莱西市</item>
+        <item parent="531" code="531">天津</item>
+        <item parent="531" code="2165">天津,和平区</item>
+        <item parent="531" code="2166">天津,河东区</item>
+        <item parent="531" code="2167">天津,河西区</item>
+        <item parent="531" code="2168">天津,南开区</item>
+        <item parent="531" code="2169">天津,河北区</item>
+        <item parent="531" code="2170">天津,红桥区</item>
+        <item parent="531" code="2171">天津,滨海新区</item>
+        <item parent="531" code="2172">天津,东丽区</item>
+        <item parent="531" code="2173">天津,西青区</item>
+        <item parent="531" code="2174">天津,津南区</item>
+        <item parent="531" code="2175">天津,北辰区</item>
+        <item parent="531" code="2176">天津,武清区</item>
+        <item parent="531" code="2177">天津,宝坻区</item>
+        <item parent="531" code="2178">天津,静海县</item>
+        <item parent="531" code="2179">天津,宁河县</item>
+        <item parent="531" code="2180">天津,蓟县</item>
+        <item parent="600" code="600">大连</item>
+        <item parent="600" code="2181">大连,西岗区</item>
+        <item parent="600" code="2182">大连,中山区</item>
+        <item parent="600" code="2183">大连,沙河口区</item>
+        <item parent="600" code="2184">大连,甘井子区</item>
+        <item parent="600" code="2185">大连,高新园区</item>
+        <item parent="600" code="2186">大连,开发区</item>
+        <item parent="600" code="2187">大连,旅顺口区</item>
+        <item parent="600" code="2188">大连,金州区 </item>
+        <item parent="719" code="719">郑州</item>
+        <item parent="719" code="2194">郑州,中原区</item>
+        <item parent="719" code="2195">郑州,二七区</item>
+        <item parent="719" code="2196">郑州,管城回族区</item>
+        <item parent="719" code="2197">郑州,金水区</item>
+        <item parent="719" code="2198">郑州,惠济区</item>
+        <item parent="719" code="2199">郑州,郑东新区 </item>
+        <item parent="719" code="2203">郑州,郑州经济技术开发区</item>
+        <item parent="719" code="2204">郑州,高新技术开发区</item>
+        <item parent="719" code="2205">郑州,上街区</item>
+        <item parent="639" code="639">苏州</item>
+        <item parent="639" code="2212">苏州,金阊区</item>
+        <item parent="639" code="2213">苏州,沧浪区</item>
+        <item parent="639" code="2214">苏州,平江区</item>
+        <item parent="639" code="2215">苏州,虎丘区</item>
+        <item parent="639" code="2216">苏州,吴中区</item>
+        <item parent="639" code="2217">苏州,相城区</item>
+        <item parent="639" code="2218">苏州,苏州工业园区</item>
+        <item parent="749" code="749">长沙</item>
+        <item parent="749" code="2224">长沙,芙蓉区</item>
+        <item parent="749" code="2225">长沙,天心区</item>
+        <item parent="749" code="2226">长沙,岳麓区</item>
+        <item parent="749" code="2227">长沙,开福区</item>
+        <item parent="749" code="2228">长沙,雨花区</item>
+        <item parent="653" code="653">杭州</item>
+        <item parent="653" code="2233">杭州,上城区</item>
+        <item parent="653" code="2234">杭州,下城区</item>
+        <item parent="653" code="2235">杭州,江干区</item>
+        <item parent="653" code="2236">杭州,拱墅区</item>
+        <item parent="653" code="2237">杭州,西湖区</item>
+        <item parent="653" code="2238">杭州,滨江区</item>
+        <item parent="653" code="2239">杭州,萧山区</item>
+        <item parent="653" code="2240">杭州,余杭区</item>
+        <item parent="653" code="2241">杭州,桐庐县　</item>
+        <item parent="653" code="2242">杭州,淳安县</item>
+        <item parent="773" code="773">惠州</item>
+        <item parent="773" code="2246">惠州,惠城区</item>
+        <item parent="773" code="2247">惠州,惠阳区</item>
+        <item parent="681" code="681">福州</item>
+        <item parent="681" code="2251">福州,鼓楼区</item>
+        <item parent="681" code="2252">福州,台江区</item>
+        <item parent="681" code="2253">福州,仓山区</item>
+        <item parent="681" code="2254">福州,马尾区</item>
+        <item parent="681" code="2255">福州,晋安区</item>
+        <item parent="681" code="2256">福州,闽侯县</item>
+        <item parent="681" code="2257">福州,罗源县</item>
+        <item parent="681" code="2258">福州,连江县</item>
+        <item parent="681" code="2259">福州,永泰县</item>
+        <item parent="681" code="2260">福州,闽清县</item>
+        <item parent="681" code="2261">福州,平潭县</item>
+        <item parent="682" code="682">厦门</item>
+        <item parent="682" code="2264">厦门,思明区</item>
+        <item parent="682" code="2265">厦门,湖里区</item>
+        <item parent="682" code="2266">厦门,集美区</item>
+        <item parent="682" code="2267">厦门,海沧区</item>
+        <item parent="682" code="2268">厦门,同安区</item>
+        <item parent="682" code="2269">厦门,翔安区</item>
+        <item parent="622" code="622">哈尔滨</item>
+        <item parent="622" code="2270">哈尔滨,南岗区</item>
+        <item parent="622" code="2271">哈尔滨,道里区</item>
+        <item parent="622" code="2272">哈尔滨,道外区</item>
+        <item parent="622" code="2273">哈尔滨,香坊区</item>
+        <item parent="622" code="2274">哈尔滨,松北区</item>
+        <item parent="622" code="2275">哈尔滨,平房区</item>
+        <item parent="622" code="2276">哈尔滨,呼兰区</item>
+        <item parent="622" code="2277">哈尔滨,阿城区</item>
+        <item parent="565" code="565">石家庄</item>
+        <item parent="565" code="2288">石家庄,长安区</item>
+        <item parent="565" code="2289">石家庄,桥东区</item>
+        <item parent="565" code="2290">石家庄,桥西区</item>
+        <item parent="565" code="2291">石家庄,新华区</item>
+        <item parent="565" code="2292">石家庄,裕华区</item>
+        <item parent="565" code="2293">石家庄,东开发区</item>
+        <item parent="565" code="2294">石家庄,井陉矿区</item>
+        <item parent="565" code="2295">石家庄,辛集市</item>
+        <item parent="565" code="2296">石家庄,藁城市</item>
+        <item parent="565" code="2297">石家庄,晋州市</item>
+        <item parent="565" code="2298">石家庄,新乐市</item>
+        <item parent="565" code="2299">石家庄,鹿泉市</item>
+        <item parent="565" code="2300">石家庄,正定县</item>
+        <item parent="565" code="2301">石家庄,平山县</item>
+        <item parent="565" code="2302">石家庄,元氏县</item>
+        <item parent="551" code="551">重庆</item>
+        <item parent="551" code="2312">重庆,渝中区</item>
+        <item parent="551" code="2313">重庆,江北区</item>
+        <item parent="551" code="2314">重庆,南岸区</item>
+        <item parent="551" code="2315">重庆,沙坪坝区</item>
+        <item parent="551" code="2316">重庆,九龙坡区</item>
+        <item parent="551" code="2317">重庆,大渡口区</item>
+        <item parent="551" code="2318">重庆,渝北区</item>
+        <item parent="551" code="2319">重庆,巴南区</item>
+        <item parent="551" code="2320">重庆,北碚区</item>
+        <item parent="551" code="2321">重庆,万州区</item>
+        <item parent="551" code="2322">重庆,黔江区</item>
+        <item parent="551" code="2323">重庆,永川区</item>
+        <item parent="551" code="2324">重庆,涪陵区</item>
+        <item parent="551" code="2325">重庆,长寿区</item>
+        <item parent="551" code="2326">重庆,江津区</item>
+        <item parent="551" code="2327">重庆,合川区</item>
+        <item parent="551" code="2328">重庆,双桥区</item>
+        <item parent="551" code="2329">重庆,万盛区</item>
+        <item parent="551" code="2330">重庆,南川区</item>
+        <item parent="551" code="2331">重庆,荣昌县</item>
+        <item parent="551" code="2332">重庆,大足县</item>
+        <item parent="551" code="2333">重庆,壁山县</item>
+        <item parent="551" code="2334">重庆,铜梁县</item>
+        <item parent="551" code="2335">重庆,潼南县</item>
+        <item parent="551" code="2336">重庆,綦江县</item>
+        <item parent="551" code="2337">重庆,忠县</item>
+        <item parent="551" code="2338">重庆,开县</item>
+        <item parent="551" code="2339">重庆,云阳县</item>
+        <item parent="551" code="2340">重庆,梁平县</item>
+        <item parent="551" code="2341">重庆,垫江县</item>
+        <item parent="551" code="2342">重庆,丰都县</item>
+        <item parent="551" code="2343">重庆,奉节县</item>
+        <item parent="551" code="2344">重庆,巫山县</item>
+        <item parent="551" code="2345">重庆,巫溪县</item>
+        <item parent="551" code="2346">重庆,城口县</item>
+        <item parent="551" code="2347">重庆,武隆县</item>
+        <item parent="551" code="2348">重庆,石柱县</item>
+        <item parent="551" code="2349">重庆,秀山县</item>
+        <item parent="551" code="2350">重庆,酉阳县</item>
+        <item parent="551" code="2351">重庆,彭水县</item>
+        <item parent="551" code="2360">重庆,北部新区</item>
+        <item parent="664" code="664">合肥</item>
+        <item parent="664" code="2352">合肥,庐阳区</item>
+        <item parent="664" code="2353">合肥,瑶海区</item>
+        <item parent="664" code="2354">合肥,蜀山区</item>
+        <item parent="664" code="2355">合肥,包河区</item>
+        <item parent="664" code="2356">合肥,经济技术开发区</item>
+        <item parent="664" code="2357">合肥,滨湖新区</item>
+        <item parent="664" code="2358">合肥,新站综合开发试验区</item>
+        <item parent="664" code="2359">合肥,高新区</item>        
+        <item parent="0" code="489">中国</item>
+        <item parent="0" code="480">国外</item>        
+        <item parent="480" code="481">阿根廷</item>
+        <item parent="480" code="482">澳大利亚</item>
+        <item parent="480" code="483">奥地利</item>
+        <item parent="480" code="484">白俄罗斯</item>
+        <item parent="480" code="485">比利时</item>
+        <item parent="480" code="486">巴西</item>
+        <item parent="480" code="487">保加利亚</item>
+        <item parent="480" code="488">加拿大</item>
+        <item parent="480" code="490">塞浦路斯</item>
+        <item parent="480" code="491">捷克</item>
+        <item parent="480" code="492">丹麦</item>
+        <item parent="480" code="493">埃及</item>
+        <item parent="480" code="494">芬兰</item>
+        <item parent="480" code="495">法国</item>
+        <item parent="480" code="496">德国</item>
+        <item parent="480" code="497">希腊</item>
+        <item parent="480" code="498">匈牙利</item>
+        <item parent="480" code="499">冰岛</item>
+        <item parent="480" code="500">印度</item>
+        <item parent="480" code="501">印度尼西亚</item>
+        <item parent="480" code="502">爱尔兰</item>
+        <item parent="480" code="503">以色列</item>
+        <item parent="480" code="504">意大利</item>
+        <item parent="480" code="505">日本</item>
+        <item parent="480" code="506">韩国</item>
+        <item parent="480" code="507">科威特</item>
+        <item parent="480" code="508">马来西亚</item>
+        <item parent="480" code="509">荷兰</item>
+        <item parent="480" code="510">新西兰</item>
+        <item parent="480" code="511">挪威</item>
+        <item parent="480" code="512">其他</item>
+        <item parent="480" code="513">巴基斯坦</item>
+        <item parent="480" code="514">波兰</item>
+        <item parent="480" code="515">葡萄牙</item>
+        <item parent="480" code="516">俄罗斯联邦</item>
+        <item parent="480" code="517">沙特阿拉伯</item>
+        <item parent="480" code="518">新加坡</item>
+        <item parent="480" code="519">南非</item>
+        <item parent="480" code="520">西班牙</item>
+        <item parent="480" code="521">瑞典</item>
+        <item parent="480" code="522">瑞士</item>
+        <item parent="480" code="523">泰国</item>
+        <item parent="480" code="524">土耳其</item>
+        <item parent="480" code="525">乌克兰</item>
+        <item parent="480" code="526">阿联酋</item>
+        <item parent="480" code="527">英国</item>
+        <item parent="480" code="528">美国</item>
+        <item parent="480" code="529">越南</item>
+        <item parent="480" code="913">安哥拉</item>
+        <item parent="480" code="914">加纳</item>
+        <item parent="480" code="915">尼日利亚</item>
+        <item parent="480" code="916">坦桑尼亚</item>
+        <item parent="480" code="917">乌干达</item>
+        <item parent="480" code="918">阿尔及利亚</item>
+        <item parent="480" code="919">塞内加尔</item>        
+        <item parent="489" code="530">北京</item>
+        <item parent="489" code="531">天津</item>
+        <item parent="489" code="532">河北省</item>
+        <item parent="489" code="533">山西省</item>
+        <item parent="489" code="534">内蒙古自治区</item>
+        <item parent="489" code="535">辽宁省</item>
+        <item parent="489" code="536">吉林省</item>
+        <item parent="489" code="537">黑龙江省</item>
+        <item parent="489" code="538">上海</item>
+        <item parent="489" code="539">江苏省</item>
+        <item parent="489" code="540">浙江省</item>
+        <item parent="489" code="541">安徽省</item>
+        <item parent="489" code="542">福建省</item>
+        <item parent="489" code="543">江西省</item>
+        <item parent="489" code="544">山东省</item>
+        <item parent="489" code="545">河南省</item>
+        <item parent="489" code="546">湖北省</item>
+        <item parent="489" code="547">湖南省</item>
+        <item parent="489" code="548">广东省</item>
+        <item parent="489" code="549">广西壮族自治区</item>
+        <item parent="489" code="550">海南省</item>
+        <item parent="489" code="551">重庆</item>
+        <item parent="489" code="552">四川省</item>
+        <item parent="489" code="553">贵州省</item>
+        <item parent="489" code="554">云南省</item>
+        <item parent="489" code="555">西藏自治区</item>
+        <item parent="489" code="556">陕西省</item>
+        <item parent="489" code="557">甘肃省</item>
+        <item parent="489" code="558">青海省</item>
+        <item parent="489" code="559">宁夏回族自治区</item>
+        <item parent="489" code="560">新疆维吾尔自治区</item>
+        <item parent="489" code="561">香港特别行政区</item>
+        <item parent="489" code="562">澳门特别行政区</item>
+        <item parent="489" code="563">台湾省</item>
+        <item parent="532" code="532">河北省</item>
+        <item parent="532" code="565">石家庄</item>
+        <item parent="532" code="566">唐山</item>
+        <item parent="532" code="567">秦皇岛</item>
+        <item parent="532" code="568">邯郸</item>
+        <item parent="532" code="569">邢台</item>
+        <item parent="532" code="570">保定</item>
+        <item parent="532" code="571">张家口</item>
+        <item parent="532" code="572">承德</item>
+        <item parent="532" code="573">沧州</item>
+        <item parent="532" code="574">廊坊</item>
+        <item parent="532" code="575">衡水</item>
+        <item parent="532" code="10050">燕郊开发区</item>
+        <item parent="532" code="10142">固安</item>
+        <item parent="532" code="10143">遵化</item>
+        <item parent="533" code="533">山西省</item>
+        <item parent="533" code="576">太原</item>
+        <item parent="533" code="577">大同</item>
+        <item parent="533" code="578">阳泉</item>
+        <item parent="533" code="579">长治</item>
+        <item parent="533" code="580">晋城</item>
+        <item parent="533" code="581">朔州</item>
+        <item parent="533" code="582">晋中</item>
+        <item parent="533" code="583">运城</item>
+        <item parent="533" code="584">忻州</item>
+        <item parent="533" code="585">临汾</item>
+        <item parent="533" code="586">吕梁</item>
+        <item parent="533" code="910">永济市</item>
+        <item parent="533" code="10082">和顺</item>
+        <item parent="534" code="534">内蒙古自治区</item>
+        <item parent="534" code="587">呼和浩特</item>
+        <item parent="534" code="588">包头</item>
+        <item parent="534" code="589">乌海</item>
+        <item parent="534" code="590">赤峰</item>
+        <item parent="534" code="591">通辽</item>
+        <item parent="534" code="592">鄂尔多斯</item>
+        <item parent="534" code="593">呼伦贝尔</item>
+        <item parent="534" code="594">兴安盟</item>
+        <item parent="534" code="595">锡林郭勒盟</item>
+        <item parent="534" code="596">乌兰察布</item>
+        <item parent="534" code="597">巴彦淖尔</item>
+        <item parent="534" code="598">阿拉善盟</item>
+        <item parent="534" code="10031">乌审旗</item>
+        <item parent="535" code="535">辽宁省</item>
+        <item parent="535" code="599">沈阳</item>
+        <item parent="535" code="600">大连</item>
+        <item parent="535" code="601">鞍山</item>
+        <item parent="535" code="602">抚顺</item>
+        <item parent="535" code="603">本溪</item>
+        <item parent="535" code="604">丹东</item>
+        <item parent="535" code="605">锦州</item>
+        <item parent="535" code="606">营口</item>
+        <item parent="535" code="607">阜新</item>
+        <item parent="535" code="608">辽阳</item>
+        <item parent="535" code="609">盘锦</item>
+        <item parent="535" code="610">铁岭</item>
+        <item parent="535" code="611">朝阳</item>
+        <item parent="535" code="612">葫芦岛</item>
+        <item parent="535" code="10023">兴城</item>
+        <item parent="535" code="10070">海城</item>
+        <item parent="535" code="10080">昌图</item>
+        <item parent="535" code="10144">开原</item>
+        <item parent="536" code="536">吉林省</item>
+        <item parent="536" code="613">长春</item>
+        <item parent="536" code="614">吉林</item>
+        <item parent="536" code="615">四平</item>
+        <item parent="536" code="616">辽源</item>
+        <item parent="536" code="617">通化</item>
+        <item parent="536" code="618">白山</item>
+        <item parent="536" code="619">松原</item>
+        <item parent="536" code="620">白城</item>
+        <item parent="536" code="621">延边朝鲜族自治州</item>
+        <item parent="536" code="10122">公主岭</item>
+        <item parent="537" code="537">黑龙江省</item>
+        <item parent="537" code="622">哈尔滨</item>
+        <item parent="537" code="623">齐齐哈尔</item>
+        <item parent="537" code="624">鸡西</item>
+        <item parent="537" code="625">鹤岗</item>
+        <item parent="537" code="626">双鸭山</item>
+        <item parent="537" code="627">大庆</item>
+        <item parent="537" code="628">伊春</item>
+        <item parent="537" code="629">佳木斯</item>
+        <item parent="537" code="630">七台河</item>
+        <item parent="537" code="631">牡丹江</item>
+        <item parent="537" code="632">黑河</item>
+        <item parent="537" code="633">绥化</item>
+        <item parent="537" code="634">大兴安岭</item>
+        <item parent="537" code="10081">安达</item>
+        <item parent="539" code="539">江苏省</item>
+        <item parent="539" code="635">南京</item>
+        <item parent="539" code="636">无锡</item>
+        <item parent="539" code="637">徐州</item>
+        <item parent="539" code="638">常州</item>
+        <item parent="539" code="639">苏州</item>
+        <item parent="539" code="640">昆山</item>
+        <item parent="539" code="641">南通</item>
+        <item parent="539" code="642">连云港</item>
+        <item parent="539" code="643">淮安</item>
+        <item parent="539" code="644">盐城</item>
+        <item parent="539" code="645">扬州</item>
+        <item parent="539" code="646">镇江</item>
+        <item parent="539" code="647">泰州</item>
+        <item parent="539" code="648">宿迁</item>
+        <item parent="539" code="649">靖江</item>
+        <item parent="539" code="650">常熟</item>
+        <item parent="539" code="651">江阴</item>
+        <item parent="539" code="652">张家港</item>
+        <item parent="539" code="911">太仓市</item>
+        <item parent="539" code="10017">吴江</item>
+        <item parent="539" code="10028">句容</item>
+        <item parent="539" code="10049">宜兴</item>
+        <item parent="539" code="10051">如皋</item>
+        <item parent="539" code="10114">丹阳</item>
+        <item parent="539" code="10124">扬中</item>
+        <item parent="539" code="10126">高邮</item>
+        <item parent="539" code="10136">启东</item>
+        <item parent="539" code="10149">泰兴</item>
+        <item parent="539" code="10150">溧阳</item>
+        <item parent="539" code="10152">盱眙</item>
+        <item parent="540" code="540">浙江省</item>
+        <item parent="540" code="909">玉环县</item>
+        <item parent="540" code="653">杭州</item>
+        <item parent="540" code="654">宁波</item>
+        <item parent="540" code="655">温州</item>
+        <item parent="540" code="656">嘉兴</item>
+        <item parent="540" code="657">湖州</item>
+        <item parent="540" code="658">绍兴</item>
+        <item parent="540" code="659">金华</item>
+        <item parent="540" code="660">衢州</item>
+        <item parent="540" code="661">舟山</item>
+        <item parent="540" code="662">台州</item>
+        <item parent="540" code="663">丽水</item>
+        <item parent="540" code="10004">义乌</item>
+        <item parent="540" code="10052">平湖</item>
+        <item parent="540" code="10055">永康</item>
+        <item parent="540" code="10056">东阳</item>
+        <item parent="540" code="10085">余姚</item>
+        <item parent="540" code="10086">慈溪</item>
+        <item parent="540" code="10089">乐清</item>
+        <item parent="540" code="10067">嘉善</item>
+        <item parent="540" code="10091">永嘉</item>
+        <item parent="540" code="10095">萧山</item>
+        <item parent="540" code="10125">临安</item>
+        <item parent="540" code="10127">桐乡</item>
+        <item parent="540" code="10128">瑞安</item>
+        <item parent="540" code="10129">温岭</item>
+        <item parent="540" code="10130">上虞</item>
+        <item parent="540" code="10131">诸暨</item>
+        <item parent="540" code="10132">富阳</item>
+        <item parent="540" code="10133">海宁</item>
+        <item parent="540" code="10134">宁海</item>
+        <item parent="540" code="10135">桐庐</item>
+        <item parent="540" code="10145">三门</item>
+        <item parent="540" code="10151">德清</item>
+        <item parent="541" code="541">安徽省</item>
+        <item parent="541" code="664">合肥</item>
+        <item parent="541" code="665">芜湖</item>
+        <item parent="541" code="666">蚌埠</item>
+        <item parent="541" code="667">淮南</item>
+        <item parent="541" code="668">马鞍山</item>
+        <item parent="541" code="669">淮北</item>
+        <item parent="541" code="670">铜陵</item>
+        <item parent="541" code="671">安庆</item>
+        <item parent="541" code="672">黄山</item>
+        <item parent="541" code="673">滁州</item>
+        <item parent="541" code="674">阜阳</item>
+        <item parent="541" code="675">宿州</item>
+        <item parent="541" code="676">巢湖</item>
+        <item parent="541" code="677">六安</item>
+        <item parent="541" code="678">亳州</item>
+        <item parent="541" code="679">池州</item>
+        <item parent="541" code="680">宣城</item>
+        <item parent="541" code="10069">凤阳</item>
+        <item parent="542" code="542">福建省</item>
+        <item parent="542" code="681">福州</item>
+        <item parent="542" code="682">厦门</item>
+        <item parent="542" code="683">莆田</item>
+        <item parent="542" code="684">三明</item>
+        <item parent="542" code="685">泉州</item>
+        <item parent="542" code="686">泉港区</item>
+        <item parent="542" code="687">漳州</item>
+        <item parent="542" code="688">南平</item>
+        <item parent="542" code="689">龙岩</item>
+        <item parent="542" code="690">宁德</item>
+        <item parent="542" code="10020">福安</item>
+        <item parent="542" code="10141">福清</item>
+        <item parent="542" code="10148">晋江</item>
+        <item parent="542" code="10087">长乐</item>
+        <item parent="543" code="543">江西省</item>
+        <item parent="543" code="691">南昌</item>
+        <item parent="543" code="692">景德镇</item>
+        <item parent="543" code="693">萍乡</item>
+        <item parent="543" code="694">九江</item>
+        <item parent="543" code="695">新余</item>
+        <item parent="543" code="696">鹰潭</item>
+        <item parent="543" code="697">赣州</item>
+        <item parent="543" code="698">吉安</item>
+        <item parent="543" code="699">宜春</item>
+        <item parent="543" code="700">抚州</item>
+        <item parent="543" code="701">上饶</item>
+        <item parent="544" code="544">山东省</item>
+        <item parent="544" code="702">济南</item>
+        <item parent="544" code="703">青岛</item>
+        <item parent="544" code="704">淄博</item>
+        <item parent="544" code="705">枣庄</item>
+        <item parent="544" code="706">东营</item>
+        <item parent="544" code="707">烟台</item>
+        <item parent="544" code="708">潍坊</item>
+        <item parent="544" code="709">济宁</item>
+        <item parent="544" code="710">泰安</item>
+        <item parent="544" code="711">威海</item>
+        <item parent="544" code="712">日照</item>
+        <item parent="544" code="713">莱芜</item>
+        <item parent="544" code="714">临沂</item>
+        <item parent="544" code="715">德州</item>
+        <item parent="544" code="716">聊城</item>
+        <item parent="544" code="717">滨州</item>
+        <item parent="544" code="718">菏泽</item>
+        <item parent="544" code="912">荣成</item>
+        <item parent="544" code="908">章丘</item>
+        <item parent="544" code="10026">黄岛</item>
+        <item parent="544" code="10060">乳山</item>
+        <item parent="544" code="10096">城阳</item>
+        <item parent="544" code="10097">即墨</item>
+        <item parent="544" code="10099">肥城</item>
+        <item parent="544" code="10116">兖州</item>
+        <item parent="544" code="10146">海阳</item>
+        <item parent="545" code="545">河南省</item>
+        <item parent="545" code="719">郑州</item>
+        <item parent="545" code="720">开封</item>
+        <item parent="545" code="721">洛阳</item>
+        <item parent="545" code="722">平顶山</item>
+        <item parent="545" code="723">安阳</item>
+        <item parent="545" code="724">鹤壁</item>
+        <item parent="545" code="725">新乡</item>
+        <item parent="545" code="726">焦作</item>
+        <item parent="545" code="727">濮阳</item>
+        <item parent="545" code="728">许昌</item>
+        <item parent="545" code="729">漯河</item>
+        <item parent="545" code="730">三门峡</item>
+        <item parent="545" code="731">南阳</item>
+        <item parent="545" code="732">商丘</item>
+        <item parent="545" code="733">信阳</item>
+        <item parent="545" code="734">周口</item>
+        <item parent="545" code="735">驻马店</item>
+        <item parent="545" code="10044">济源</item>
+        <item parent="545" code="10059">西平</item>
+        <item parent="545" code="10137">长葛</item>
+        <item parent="546" code="546">湖北省</item>
+        <item parent="546" code="736">武汉</item>
+        <item parent="546" code="737">黄石</item>
+        <item parent="546" code="738">十堰</item>
+        <item parent="546" code="739">宜昌</item>
+        <item parent="546" code="740">襄阳</item>
+        <item parent="546" code="741">鄂州</item>
+        <item parent="546" code="742">荆门</item>
+        <item parent="546" code="743">孝感</item>
+        <item parent="546" code="744">荆州</item>
+        <item parent="546" code="745">黄冈</item>
+        <item parent="546" code="746">咸宁</item>
+        <item parent="546" code="747">随州</item>
+        <item parent="546" code="748">恩施土家族苗族自治州</item>
+        <item parent="546" code="10057">公安</item>
+        <item parent="546" code="10139">武穴</item>
+        <item parent="546" code="10140">天门</item>
+        <item parent="547" code="547">湖南省</item>
+        <item parent="547" code="749">长沙</item>
+        <item parent="547" code="750">株洲</item>
+        <item parent="547" code="751">湘潭</item>
+        <item parent="547" code="752">衡阳</item>
+        <item parent="547" code="753">邵阳</item>
+        <item parent="547" code="754">岳阳</item>
+        <item parent="547" code="755">常德</item>
+        <item parent="547" code="756">张家界</item>
+        <item parent="547" code="757">益阳</item>
+        <item parent="547" code="758">郴州</item>
+        <item parent="547" code="759">永州</item>
+        <item parent="547" code="760">怀化</item>
+        <item parent="547" code="761">娄底</item>
+        <item parent="547" code="762">湘西土家族苗族自治州</item>
+        <item parent="548" code="548">广东省</item>
+        <item parent="548" code="763">广州</item>
+        <item parent="548" code="764">韶关</item>
+        <item parent="548" code="765">深圳</item>
+        <item parent="548" code="766">珠海</item>
+        <item parent="548" code="767">汕头</item>
+        <item parent="548" code="768">佛山</item>
+        <item parent="548" code="769">江门</item>
+        <item parent="548" code="770">湛江</item>
+        <item parent="548" code="771">茂名</item>
+        <item parent="548" code="772">肇庆</item>
+        <item parent="548" code="773">惠州</item>
+        <item parent="548" code="774">梅州</item>
+        <item parent="548" code="775">汕尾</item>
+        <item parent="548" code="776">河源</item>
+        <item parent="548" code="777">阳江</item>
+        <item parent="548" code="778">清远</item>
+        <item parent="548" code="779">东莞</item>
+        <item parent="548" code="780">中山</item>
+        <item parent="548" code="781">潮州</item>
+        <item parent="548" code="782">揭阳</item>
+        <item parent="548" code="783">云浮</item>
+        <item parent="548" code="784">南海区</item>
+        <item parent="548" code="10025">顺德</item>
+        <item parent="548" code="10083">番禺</item>
+        <item parent="548" code="10088">增城</item>
+        <item parent="548" code="10090">花都</item>
+        <item parent="548" code="10112">台山</item>
+        <item parent="548" code="10113">普宁</item>
+        <item parent="548" code="10117">南沙开发区</item>
+        <item parent="548" code="10118">开平</item>
+        <item parent="548" code="10120">龙川</item>
+        <item parent="548" code="10138">鹤山</item>
+        <item parent="548" code="10147">从化</item>
+        <item parent="549" code="549">广西壮族自治区</item>
+        <item parent="549" code="785">南宁</item>
+        <item parent="549" code="786">柳州</item>
+        <item parent="549" code="787">桂林</item>
+        <item parent="549" code="788">梧州</item>
+        <item parent="549" code="789">北海</item>
+        <item parent="549" code="790">防城港</item>
+        <item parent="549" code="791">钦州</item>
+        <item parent="549" code="792">贵港</item>
+        <item parent="549" code="793">玉林</item>
+        <item parent="549" code="794">百色</item>
+        <item parent="549" code="795">贺州</item>
+        <item parent="549" code="796">河池</item>
+        <item parent="549" code="904">来宾</item>
+        <item parent="549" code="905">崇左</item>
+        <item parent="550" code="550">海南省</item>
+        <item parent="550" code="907">洋浦市/洋浦经济开发区</item>
+        <item parent="550" code="799">海口</item>
+        <item parent="550" code="800">三亚</item>
+        <item parent="550" code="10153">琼海</item>
+        <item parent="552" code="552">四川省</item>
+        <item parent="552" code="801">成都</item>
+        <item parent="552" code="802">自贡</item>
+        <item parent="552" code="803">攀枝花</item>
+        <item parent="552" code="804">泸州</item>
+        <item parent="552" code="805">德阳</item>
+        <item parent="552" code="806">绵阳</item>
+        <item parent="552" code="807">广元</item>
+        <item parent="552" code="808">遂宁</item>
+        <item parent="552" code="809">内江</item>
+        <item parent="552" code="810">乐山</item>
+        <item parent="552" code="811">南充</item>
+        <item parent="552" code="812">眉山</item>
+        <item parent="552" code="813">宜宾</item>
+        <item parent="552" code="814">广安</item>
+        <item parent="552" code="815">达州</item>
+        <item parent="552" code="816">雅安</item>
+        <item parent="552" code="817">巴中</item>
+        <item parent="552" code="818">资阳</item>
+        <item parent="552" code="819">阿坝藏族羌族自治州</item>
+        <item parent="552" code="820">甘孜藏族自治州</item>
+        <item parent="552" code="821">凉山彝族自治州</item>
+        <item parent="552" code="10065">峨嵋</item>
+        <item parent="553" code="553">贵州省</item>
+        <item parent="553" code="822">贵阳</item>
+        <item parent="553" code="823">六盘水</item>
+        <item parent="553" code="824">遵义</item>
+        <item parent="553" code="825">安顺</item>
+        <item parent="553" code="826">铜仁</item>
+        <item parent="553" code="827">黔西南布依族苗族自治州</item>
+        <item parent="553" code="828">毕节</item>
+        <item parent="553" code="829">黔东南苗族侗族自治州</item>
+        <item parent="553" code="830">黔南布依族苗族自治州</item>
+        <item parent="554" code="554">云南省</item>
+        <item parent="554" code="831">昆明</item>
+        <item parent="554" code="832">曲靖</item>
+        <item parent="554" code="833">玉溪</item>
+        <item parent="554" code="834">保山</item>
+        <item parent="554" code="835">昭通</item>
+        <item parent="554" code="836">楚雄彝族自治州</item>
+        <item parent="554" code="837">红河哈尼族彝族自治州</item>
+        <item parent="554" code="838">文山壮族苗族自治州</item>
+        <item parent="554" code="839">思茅</item>
+        <item parent="554" code="840">西双版纳傣族自治州</item>
+        <item parent="554" code="841">大理白族自治州</item>
+        <item parent="554" code="842">德宏傣族景颇族自治州</item>
+        <item parent="554" code="843">丽江</item>
+        <item parent="554" code="844">怒江傈僳族自治州</item>
+        <item parent="554" code="845">迪庆藏族自治州</item>
+        <item parent="554" code="846">临沧</item>
+        <item parent="555" code="555">西藏自治区</item>
+        <item parent="555" code="847">拉萨</item>
+        <item parent="555" code="848">昌都</item>
+        <item parent="555" code="849">山南</item>
+        <item parent="555" code="850">日喀则</item>
+        <item parent="555" code="851">那曲</item>
+        <item parent="555" code="852">阿里</item>
+        <item parent="555" code="853">林芝</item>
+        <item parent="556" code="556">陕西省</item>
+        <item parent="556" code="854">西安</item>
+        <item parent="556" code="855">铜川</item>
+        <item parent="556" code="856">宝鸡</item>
+        <item parent="556" code="857">咸阳</item>
+        <item parent="556" code="858">渭南</item>
+        <item parent="556" code="859">延安</item>
+        <item parent="556" code="860">汉中</item>
+        <item parent="556" code="861">榆林</item>
+        <item parent="556" code="862">安康</item>
+        <item parent="556" code="863">商洛</item>
+        <item parent="556" code="10058">兴平</item>
+        <item parent="557" code="557">甘肃省</item>
+        <item parent="557" code="864">兰州</item>
+        <item parent="557" code="865">嘉峪关</item>
+        <item parent="557" code="866">金昌</item>
+        <item parent="557" code="867">白银</item>
+        <item parent="557" code="868">天水</item>
+        <item parent="557" code="869">武威</item>
+        <item parent="557" code="870">张掖</item>
+        <item parent="557" code="871">平凉</item>
+        <item parent="557" code="872">酒泉</item>
+        <item parent="557" code="873">庆阳</item>
+        <item parent="557" code="874">定西</item>
+        <item parent="557" code="875">陇南</item>
+        <item parent="557" code="876">临夏回族自治州</item>
+        <item parent="557" code="877">甘南藏族自治州</item>
+        <item parent="558" code="558">青海省</item>
+        <item parent="558" code="878">西宁</item>
+        <item parent="558" code="879">海东</item>
+        <item parent="558" code="880">海北藏族自治州</item>
+        <item parent="558" code="881">黄南藏族自治州</item>
+        <item parent="558" code="882">海南藏族自治州</item>
+        <item parent="558" code="883">果洛藏族自治州</item>
+        <item parent="558" code="884">玉树藏族自治州</item>
+        <item parent="558" code="885">海西蒙古族藏族自治州</item>
+        <item parent="559" code="559">宁夏回族自治区</item>
+        <item parent="559" code="886">银川</item>
+        <item parent="559" code="887">石嘴山</item>
+        <item parent="559" code="888">吴忠</item>
+        <item parent="559" code="889">固原</item>
+        <item parent="559" code="906">中卫</item>
+        <item parent="560" code="560">新疆维吾尔自治区</item>
+        <item parent="560" code="890">乌鲁木齐</item>
+        <item parent="560" code="891">克拉玛依</item>
+        <item parent="560" code="892">吐鲁番</item>
+        <item parent="560" code="893">哈密</item>
+        <item parent="560" code="894">昌吉回族自治州</item>
+        <item parent="560" code="895">博尔塔拉蒙古自治州</item>
+        <item parent="560" code="896">巴音郭楞蒙古自治州</item>
+        <item parent="560" code="897">阿克苏</item>
+        <item parent="560" code="898">克孜勒苏柯尔克孜自治州</item>
+        <item parent="560" code="899">喀什</item>
+        <item parent="560" code="900">和田</item>
+        <item parent="560" code="901">伊犁哈萨克自治州</item>
+        <item parent="560" code="902">塔城</item>
+        <item parent="560" code="903">阿勒泰</item>
+        <item parent="560" code="10061">石河子</item> 
+      </secondLevel>
+    </city>
+    <compsize>
+      <item code="-1">不限</item>
+      <item code="1">20人以下</item>
+      <item code="2">20-99人</item>
+      <item code="3">100-499人</item>
+      <item code="4">500-999人</item>
+      <item code="5">1000-9999人</item>
+      <item code="6">10000人以上</item>      
+    </compsize>
+    <comptype>
+      <item code="-1">不限</item>
+      <item code="1">国企</item>
+      <item code="2">外商独资</item>
+      <item code="3">代表处</item>
+      <item code="4">合资</item>
+      <item code="5">民营</item>
+      <item code="6">国家机关</item>
+      <item code="7">其它</item>
+      <item code="8">股份制企业</item>
+      <item code="9">上市公司</item>
+      <item code="10">事业单位</item>
+    </comptype>
+    <industry>
+      <item code="-1">不限</item>
+      <item code="160200">计算机硬件及网络设备</item>
+      <item code="160400">计算机软件</item>
+      <item code="160000">IT服务（系统/数据/维护）/多领域经营</item>
+      <item code="210500">互联网/电子商务</item>
+      <item code="160600">网络游戏</item>
+      <item code="160100">通讯（设备/运营/增值服务）</item>
+      <item code="160500">电子技术/半导体/集成电路</item>
+      <item code="180000">金融/银行/投资/基金/证券</item>
+      <item code="180100">保险</item>
+      <item code="140000">房地产/建筑/建材/工程</item>
+      <item code="140100">家居/室内设计/装饰装潢</item>
+      <item code="140200">物业管理/商业中心</item>
+      <item code="200302">广告/会展/公关/市场推广</item>
+      <item code="210300">媒体/出版/影视/文化/艺术</item>
+      <item code="210600">印刷/包装/造纸</item>
+      <item code="200300">咨询/管理产业/法律/财会</item>
+      <item code="201100">教育/培训</item>
+      <item code="120400">快速消费品（食品/饮料/烟酒/化妆品）</item>
+      <item code="120200">耐用消费品（服装服饰/纺织/皮革/家具/家电）</item>
+      <item code="120800">礼品/玩具/工艺美术/收藏品</item>
+      <item code="170000">零售/批发</item>
+      <item code="170500">贸易/进出口</item>
+      <item code="150000">交通/运输/物流</item>
+      <item code="121100">加工制造（原料加工/模具）</item>
+      <item code="129900">大型设备/机电设备/重工业</item>
+      <item code="121200">仪器仪表及工业自动化</item>
+      <item code="120700">办公用品及设备</item>
+      <item code="121000">汽车/摩托车（制造/维护/配件/销售/服务）</item>
+      <item code="201300">检验/检测/认证</item>
+      <item code="121300">医药/生物工程</item>
+      <item code="121400">医疗/护理/美容/保健</item>
+      <item code="121500">医疗设备/器械</item>
+      <item code="200600">酒店/餐饮</item>
+      <item code="200700">娱乐/体育/休闲</item>
+      <item code="200800">旅游/度假</item>
+      <item code="120500">石油/石化/化工</item>
+      <item code="130000">能源/矿产/采掘/冶炼</item>
+      <item code="130100">电气/电力/水利</item>
+      <item code="201200">环保</item>
+      <item code="300000">航空/航天</item>
+      <item code="120600">学术/科研</item>
+      <item code="201400">中介服务</item>
+      <item code="200100">政府/公共事业/非盈利机构</item>
+      <item code="100000">农/林/牧/渔</item>
+      <item code="100100">跨领域经营</item>
+      <item code="990000">其它</item>
+    </industry>
+    <jobtype>
+      <item code="-1">不限</item>
+      <item code="4010200">销售业务</item>
+      <item code="7001000">销售管理</item>
+      <item code="7002000">销售支持/商务</item>
+      <item code="4000000">客户服务/售前/售后支持</item>
+      <item code="4083000">采购/贸易</item>
+      <item code="160000">计算机软件/系统集成</item>
+      <item code="160200">互联网/电子商务/网游</item>
+      <item code="160300">计算机硬件/设备</item>
+      <item code="5001000">电信/通信</item>
+      <item code="160100">电子/电气/半导体/仪器仪表</item>
+      <item code="3010000">行政/后勤/文秘</item>
+      <item code="5002000">人力资源</item>
+      <item code="1050000">高级管理</item>
+      <item code="4082000">市场/营销</item>
+      <item code="4084000">公关/媒介</item>m>
+      <item code="7004000">广告/会展</item>
+      <item code="160400">IT支持及其它</item>
+      <item code="140000">建筑装修/市政建设</item>
+      <item code="141000">房地产开发/经纪/中介</item>
+      <item code="142000">物业管理</item>
+      <item code="2060000">财务/审计/税务</item>
+      <item code="2071000">银行</item>
+      <item code="2070000">金融/证券/期货/投资</item>
+      <item code="7006000">保险</item>
+      <item code="2120500">翻译（口译与笔译）</item>
+      <item code="2140000">咨询/顾问</item>
+      <item code="2080000">律师/法务/合规</item>
+      <item code="2090000">教育/培训</item>
+      <item code="2100708">美术/设计/创意</item>
+      <item code="2120000">传媒/影视/报刊/出版/印刷</item>
+      <item code="121100">生产/加工/制造</item>
+      <item code="7005000">服装/纺织/食品/饮料</item>
+      <item code="5005000">零售/百货/超市</item>
+      <item code="5003000">工程机械</item>
+      <item code="5004000">技工</item>
+      <item code="7003000">汽车/摩托车制造</item>
+      <item code="7003100">汽车销售与服务</item>
+      <item code="2023405">质控/安防</item>
+      <item code="4010300">交通运输</item>
+      <item code="4010400">物流/仓储</item>
+      <item code="121300">生物工程/制药/医疗器械</item>
+      <item code="2051000">医疗/护理</item>
+      <item code="120500">化工</item>
+      <item code="130000">能源/矿产/地质勘查</item>
+      <item code="2023100">环境科学/环保</item>
+      <item code="4040000">酒店/餐饮/旅游/娱乐</item>
+      <item code="2050000">保健/美容/美发/健身</item>
+      <item code="6270000">保安/家政/普通劳动力</item>
+      <item code="100000">农/林/牧/渔业</item>
+      <item code="200100">公务员/事业单位/科研机构</item>
+      <item code="5006000">毕业生/实习生/培训生</item>
+      <item code="1">兼职/临时</item>
+      <item code="2">其他</item>
+    </jobtype>
+    <small_Job_type>
+      <itme categoryid="-1" code="-1">不限</itme>
+      <item categoryid="4010200" code="4010200">销售业务</item>
+      <item categoryid="4010200" code="006">销售代表</item>
+      <item categoryid="4010200" code="008">客户代表</item>
+      <item categoryid="4010200" code="011">电话销售</item>
+      <item categoryid="4010200" code="009">销售工程师</item>
+      <item categoryid="4010200" code="007">渠道/分销专员</item>
+      <item categoryid="4010200" code="010">医药销售代表</item>
+      <item categoryid="4010200" code="451">网站推广</item>
+      <item categoryid="4010200" code="452">团购业务员</item>
+      <item categoryid="4010200" code="012">经销商</item>
+      <item categoryid="4010200" code="018">其他</item>
+      <item categoryid="7001000" code="7001000">销售管理</item>
+      <item categoryid="7001000" code="000">销售总监</item>
+      <item categoryid="7001000" code="001">销售经理</item>
+      <item categoryid="7001000" code="002">销售主管</item>
+      <item categoryid="7001000" code="004">客户经理</item>
+      <item categoryid="7001000" code="548">客户主管</item>
+      <item categoryid="7001000" code="005">区域销售总监/经理</item>
+      <item categoryid="7001000" code="003">渠道/分销总监</item>
+      <item categoryid="7001000" code="453">渠道/分销经理/主管</item>
+      <item categoryid="7001000" code="454">业务拓展主管/经理</item>
+      <item categoryid="7001000" code="455">团购经理/主管</item>
+      <item categoryid="7001000" code="456">售前/售后管理</item>
+      <item categoryid="7001000" code="457">零售/百货/连锁管理</item>
+      <item categoryid="7001000" code="458">其他</item>
+      <item categoryid="7002000" code="7002000">销售支持/商务</item>
+      <item categoryid="7002000" code="459">销售行政经理/主管</item>
+      <item categoryid="7002000" code="015">销售行政专员/助理</item>
+      <item categoryid="7002000" code="460">商务专员/助理</item>
+      <item categoryid="7002000" code="461">商务经理/主管</item>
+      <item categoryid="7002000" code="462">业务分析</item>
+      <item categoryid="7002000" code="463">销售培训讲师</item>
+      <item categoryid="7002000" code="464">其他</item>
+      <item categoryid="4000000" code="4000000">客户服务/售前/售后支持</item>
+      <item categoryid="4000000" code="391">客户服务总监</item>
+      <item categoryid="4000000" code="390">客户服务经理</item>
+      <item categoryid="4000000" code="549">客户服务主管</item>
+      <item categoryid="4000000" code="261">客户关系/投诉/协调人员</item>
+      <item categoryid="4000000" code="260">客户咨询热线/呼叫中心人员</item>
+      <item categoryid="4000000" code="257">客户服务专员/助理</item>
+      <item categoryid="4000000" code="258">售前/售后技术支持管理</item>
+      <item categoryid="4000000" code="392">售前/售后技术支持工程师</item>
+      <item categoryid="4000000" code="262">其他</item>
+      <item categoryid="4083000" code="4083000">采购/贸易</item>
+      <item categoryid="4083000" code="235">采购总监/经理</item>
+      <item categoryid="4083000" code="550">采购主管</item>
+      <item categoryid="4083000" code="236">采购专员/助理</item>
+      <item categoryid="4083000" code="237">外贸/贸易专员/助理</item>
+      <item categoryid="4083000" code="312">外贸/贸易经理/主管</item>
+      <item categoryid="4083000" code="238">业务跟单</item>
+      <item categoryid="4083000" code="239">报关员</item>
+      <item categoryid="4083000" code="240">其他</item>
+      <item categoryid="160000" code="160000">计算机软件/系统集成</item>
+      <item categoryid="160000" code="045">软件工程师</item>
+      <item categoryid="160000" code="044">高级软件工程师</item>
+      <item categoryid="160000" code="050">软件测试</item>
+      <item categoryid="160000" code="079">研发工程师</item>
+      <item categoryid="160000" code="046">系统工程师</item>
+      <item categoryid="160000" code="047">数据库开发工程师</item>
+      <item categoryid="160000" code="389">数据库管理员</item>
+      <item categoryid="160000" code="048">ERP技术/开发应用</item>
+      <item categoryid="160000" code="551">实施工程师</item>
+      <item categoryid="160000" code="060">其他</item>
+      <item categoryid="160200" code="160200">互联网/电子商务/网游</item>
+      <item categoryid="160200" code="052">网站运营管理</item>
+      <item categoryid="160200" code="316">产品经理/主管</item>
+      <item categoryid="160200" code="552">电子商务/SEO</item>
+      <item categoryid="160200" code="388">网络管理员</item>
+      <item categoryid="160200" code="056">网站编辑</item>
+      <item categoryid="160200" code="054">网页设计/制作</item>
+      <item categoryid="160200" code="055">网络工程师</item>
+      <item categoryid="160200" code="053">互联网研发工程师</item>
+      <item categoryid="160200" code="051">系统管理员</item>
+      <item categoryid="160200" code="400">系统分析师/架构师</item>
+      <item categoryid="160200" code="059">网络与信息安全工程师</item>
+      <item categoryid="160200" code="317">语音/视频/图形</item>
+      <item categoryid="160200" code="553">UI/UE设计师/顾问</item>
+      <item categoryid="160200" code="554">三维/3D设计/制作</item>
+      <item categoryid="160200" code="555">Flash设计/开发</item>
+      <item categoryid="160200" code="057">游戏设计/开发</item>
+      <item categoryid="160200" code="556">其他</item>
+      <item categoryid="160300" code="160300">计算机硬件/设备</item>
+      <item categoryid="160300" code="314">高级硬件工程师</item>
+      <item categoryid="160300" code="043">硬件工程师</item>
+      <item categoryid="160300" code="387">硬件测试人员</item>
+      <item categoryid="160300" code="557">其他</item>
+      <item categoryid="5001000" code="5001000">电信/通信</item>
+      <item categoryid="5001000" code="321">无线/射频通信工程师</item>
+      <item categoryid="5001000" code="087">电信/通信工程师</item>
+      <item categoryid="5001000" code="326">通信电源工程师</item>
+      <item categoryid="5001000" code="324">移动通信工程师</item>
+      <item categoryid="5001000" code="325">电信网络工程师</item>
+      <item categoryid="5001000" code="322">电信交换工程师</item>
+      <item categoryid="5001000" code="323">数据通信工程师</item>
+      <item categoryid="5001000" code="320">有线传输工程师</item>
+      <item categoryid="5001000" code="499">项目经理/主管</item>
+      <item categoryid="5001000" code="558">标准化工程师</item>
+      <item categoryid="5001000" code="500">研发工程师</item>
+      <item categoryid="5001000" code="327">其他</item>
+      <item categoryid="160100" code="160100">电子/电气/半导体/仪器仪表</item>
+      <item categoryid="160100" code="081">半导体技术</item>
+      <item categoryid="160100" code="528">研发工程师</item>
+      <item categoryid="160100" code="318">无线电工程师</item>
+      <item categoryid="160100" code="410">测试/可靠性工程师</item>
+      <item categoryid="160100" code="409">项目管理/产品管理</item>
+      <item categoryid="160100" code="091">产品工艺/规划/制程工程师</item>
+      <item categoryid="160100" code="559">灯光/照明</item>
+      <item categoryid="160100" code="408">版图设计工程师</item>
+      <item categoryid="160100" code="411">激光/光电子技术</item>
+      <item categoryid="160100" code="086">仪器/仪表/计量</item>
+      <item categoryid="160100" code="405">IC验证工程师</item>
+      <item categoryid="160100" code="404">集成电路IC设计/应用工程师</item>
+      <item categoryid="160100" code="085">家用电器/数码产品研发</item>
+      <item categoryid="160100" code="084">FAE现场应用工程师</item>
+      <item categoryid="160100" code="401">设备工程师（调试/安装/维护）</item>
+      <item categoryid="160100" code="407">嵌入式硬件/软件工程师</item>
+      <item categoryid="160100" code="078">电子/电气工程师</item>
+      <item categoryid="160100" code="403">电子/电器维修</item>
+      <item categoryid="160100" code="089">电路工程师/技术员</item>
+      <item categoryid="160100" code="319">机电工程师</item>
+      <item categoryid="160100" code="082">电子元器件工程师</item>
+      <item categoryid="160100" code="083">电池/电源开发</item>
+      <item categoryid="160100" code="033">自动化工程师</item>
+      <item categoryid="160100" code="402">音频/视频工程师/技术员</item>
+      <item categoryid="160100" code="406">模拟电路设计/应用工程师</item>
+      <item categoryid="160100" code="560">空调工程/设计</item>
+      <item categoryid="160100" code="094">其他</item>
+      <item categoryid="160400" code="160400">IT支持及其它</item>
+      <item categoryid="160400" code="398">首席技术官CTO/首席信息官CIO</item>
+      <item categoryid="160400" code="313">技术总监/经理</item>
+      <item categoryid="160400" code="040">信息技术经理/主管</item>
+      <item categoryid="160400" code="041">信息技术专员</item>
+      <item categoryid="160400" code="058">技术支持/维护经理</item>
+      <item categoryid="160400" code="315">技术支持/维护工程师</item>
+      <item categoryid="160400" code="042">项目经理/主管</item>
+      <item categoryid="160400" code="049">质量工程师</item>
+      <item categoryid="160400" code="561">其他</item>
+      <item categoryid="140000" code="140000">建筑装修/市政建设</item>
+      <item categoryid="140000" code="350">高级建筑工程师/总工</item>
+      <item categoryid="140000" code="096">建筑师/土建工程师</item>
+      <item categoryid="140000" code="106">工程监理/质量工程师</item>
+      <item categoryid="140000" code="099">给排水工程/暖通/制冷工程</item>
+      <item categoryid="140000" code="097">结构工程师</item>
+      <item categoryid="140000" code="467">电气设计</item>
+      <item categoryid="140000" code="102">造价师/预算师</item>
+      <item categoryid="140000" code="098">项目管理/招投标</item>
+      <item categoryid="140000" code="103">城市规划</item>
+      <item categoryid="140000" code="562">市政工程师</item>
+      <item categoryid="140000" code="100">室内外装潢设计</item>
+      <item categoryid="140000" code="563">景观/园林设计</item>
+      <item categoryid="140000" code="564">幕墙工程师</item>
+      <item categoryid="140000" code="289">智能大厦/布线/弱电/安防</item>
+      <item categoryid="140000" code="383">测绘/测量/制图</item>
+      <item categoryid="140000" code="466">铁路/道路/桥梁技术</item>
+      <item categoryid="140000" code="565">安全管理/安全员</item>
+      <item categoryid="140000" code="107">施工员</item>
+      <item categoryid="140000" code="108">其他</item>
+      <item categoryid="141000" code="141000">房地产开发/经纪/中介</item>
+      <item categoryid="141000" code="105">房地产中介/交易</item>
+      <item categoryid="141000" code="351">房地产开发/策划</item>
+      <item categoryid="141000" code="566">项目管理/招投标</item>
+      <item categoryid="141000" code="567">房地产评估</item>
+      <item categoryid="141000" code="568">其他</item>
+      <item categoryid="142000" code="142000">物业管理</item>
+      <item categoryid="142000" code="393">物业经理/主管</item>
+      <item categoryid="142000" code="095">物业管理专员/助理</item>
+      <item categoryid="142000" code="465">招商经理/主管</item>
+      <item categoryid="142000" code="101">物业招商/租赁/租售</item>
+      <item categoryid="142000" code="352">物业维修</item>
+      <item categoryid="142000" code="569">其他</item>
+      <item categoryid="2060000" code="2060000">财务/审计/税务</item>
+      <item categoryid="2060000" code="399">首席财务官CFO</item>
+      <item categoryid="2060000" code="200">财务总监</item>
+      <item categoryid="2060000" code="201">财务经理</item>
+      <item categoryid="2060000" code="202">财务主管/总帐主管</item>
+      <item categoryid="2060000" code="203">财务分析经理/主管</item>
+      <item categoryid="2060000" code="211">成本经理/主管</item>
+      <item categoryid="2060000" code="206">会计经理/主管</item>
+      <item categoryid="2060000" code="526">会计师</item>
+      <item categoryid="2060000" code="207">会计</item>
+      <item categoryid="2060000" code="527">成本会计</item>
+      <item categoryid="2060000" code="208">出纳员</item>
+      <item categoryid="2060000" code="212">审计经理/主管</item>
+      <item categoryid="2060000" code="213">审计专员/助理</item>
+      <item categoryid="2060000" code="570">资产/资金管理</item>
+      <item categoryid="2060000" code="205">财务助理/会计助理</item>
+      <item categoryid="2060000" code="209">税务经理/主管</item>
+      <item categoryid="2060000" code="210">税务专员/助理</item>
+      <item categoryid="2060000" code="214">统计员</item>
+      <item categoryid="2060000" code="204">财务分析员</item>
+      <item categoryid="2060000" code="215">其他</item>
+      <item categoryid="2071000" code="2071000">银行</item>
+      <item categoryid="2071000" code="347">银行经理/主任</item>
+      <item categoryid="2071000" code="193">银行会计/柜员</item>
+      <item categoryid="2071000" code="571">信用卡/银行卡业务</item>
+      <item categoryid="2071000" code="194">信贷管理/资信评估</item>
+      <item categoryid="2071000" code="192">客户服务</item>
+      <item categoryid="2071000" code="572">公司业务</item>
+      <item categoryid="2071000" code="573">个人业务</item>
+      <item categoryid="2071000" code="574">其他</item>
+      <item categoryid="2070000" code="2070000">金融/证券/期货/投资</item>
+      <item categoryid="2070000" code="349">证券总监/部门经理</item>
+      <item categoryid="2070000" code="187">证券/期货/外汇经纪人</item>
+      <item categoryid="2070000" code="575">证券分析/金融研究</item>
+      <item categoryid="2070000" code="191">客户经理/主管</item>
+      <item categoryid="2070000" code="188">投资/理财服务</item>
+      <item categoryid="2070000" code="468">项目经理/主管</item>
+      <item categoryid="2070000" code="346">融资总监</item>
+      <item categoryid="2070000" code="576">投资银行业务</item>
+      <item categoryid="2070000" code="189">融资经理/融资主管/专员</item>
+      <item categoryid="2070000" code="577">股票/期货操盘手</item>
+      <item categoryid="2070000" code="190">风险管理/控制/稽查</item>
+      <item categoryid="2070000" code="578">基金管理</item>
+      <item categoryid="2070000" code="195">外汇交易/基金/国债经理人</item>
+      <item categoryid="2070000" code="579">资产评估</item>
+      <item categoryid="2070000" code="580">担保/拍卖/典当业务</item>
+      <item categoryid="2070000" code="198">储备经理人</item>
+      <item categoryid="2070000" code="199">其他</item>
+      <item categoryid="7006000" code="7006000">保险</item>
+      <item categoryid="7006000" code="535">业务经理/主管</item>
+      <item categoryid="7006000" code="536">项目经理/主管</item>
+      <item categoryid="7006000" code="196">保险代理/经纪人/客户经理</item>
+      <item categoryid="7006000" code="537">保险顾问/财务规划师</item>
+      <item categoryid="7006000" code="540">保险产品开发/项目策划</item>
+      <item categoryid="7006000" code="543">保险培训师</item>
+      <item categoryid="7006000" code="545">契约管理</item>
+      <item categoryid="7006000" code="197">核保理赔</item>
+      <item categoryid="7006000" code="538">受理</item>
+      <item categoryid="7006000" code="542">精算/投资/稽核/律师/法务/合规</item>
+      <item categoryid="7006000" code="348">保险精算师</item>
+      <item categoryid="7006000" code="541">客户服务/续期管理</item>
+      <item categoryid="7006000" code="539">保险内勤</item>
+      <item categoryid="7006000" code="544">储备经理人</item>
+      <item categoryid="7006000" code="546">其他</item>
+      <item categoryid="7003000" code="7003000">汽车/摩托车制造</item>
+      <item categoryid="7003000" code="471">项目工程管理</item>
+      <item categoryid="7003000" code="470">设计工程师</item>
+      <item categoryid="7003000" code="473">研发工程师</item>
+      <item categoryid="7003000" code="474">发动机/底盘/总装工程师</item>
+      <item categoryid="7003000" code="475">机械工程师</item>
+      <item categoryid="7003000" code="476">电子工程师</item>
+      <item categoryid="7003000" code="478">安全性能工程师</item>
+      <item categoryid="7003000" code="472">装配工艺工程师</item>
+      <item categoryid="7003000" code="480">理赔专员/顾问</item>
+      <item categoryid="7003000" code="485">其他</item>
+      <item categoryid="7003100" code="7003100">汽车销售与服务</item>
+      <item categoryid="7003100" code="469">销售/经纪人</item>
+      <item categoryid="7003100" code="482">汽车/摩托车修理</item>
+      <item categoryid="7003100" code="581">售后服务/客户服务</item>
+      <item categoryid="7003100" code="477">4S店管理</item>
+      <item categoryid="7003100" code="479">零配件销售</item>
+      <item categoryid="7003100" code="483">装饰美容</item>
+      <item categoryid="7003100" code="481">检验检测</item>
+      <item categoryid="7003100" code="484">二手车评估师</item>
+      <item categoryid="7003100" code="582">其他</item>
+      <item categoryid="5003000" code="5003000">工程机械</item>
+      <item categoryid="5003000" code="332">工程机械经理</item>
+      <item categoryid="5003000" code="333">工程机械主管</item>
+      <item categoryid="5003000" code="583">工程/设备工程师</item>
+      <item categoryid="5003000" code="029">机械工程师</item>
+      <item categoryid="5003000" code="584">技术研发工程师</item>
+      <item categoryid="5003000" code="090">技术文档工程师</item>
+      <item categoryid="5003000" code="585">产品工艺/制程工程师</item>
+      <item categoryid="5003000" code="586">结构工程师</item>
+      <item categoryid="5003000" code="587">气动工程师</item>
+      <item categoryid="5003000" code="588">模具工程师</item>
+      <item categoryid="5003000" code="093">机械设计师</item>
+      <item categoryid="5003000" code="334">机械制图员</item>
+      <item categoryid="5003000" code="589">维修工程师</item>
+      <item categoryid="5003000" code="590">铸造/锻造工程师/技师</item>
+      <item categoryid="5003000" code="591">CNC/数控工程师</item>
+      <item categoryid="5003000" code="335">其他</item>
+      <item categoryid="121100" code="121100">生产/加工/制造</item>
+      <item categoryid="121100" code="061">工厂厂长/副厂长</item>
+      <item categoryid="121100" code="065">生产总监/经理/车间主任</item>
+      <item categoryid="121100" code="063">项目经理/主管</item>
+      <item categoryid="121100" code="066">质量管理</item>
+      <item categoryid="121100" code="064">生产主管/督导/组长</item>
+      <item categoryid="121100" code="075">制造工程师</item>
+      <item categoryid="121100" code="062">项目工程师</item>
+      <item categoryid="121100" code="073">维修工程师</item>
+      <item categoryid="121100" code="486">铸造/锻造/注塑工程师</item>
+      <item categoryid="121100" code="074">工业工程师</item>
+      <item categoryid="121100" code="487">生产计划</item>
+      <item categoryid="121100" code="068">设备管理</item>
+      <item categoryid="121100" code="072">产品开发/技术/工艺</item>
+      <item categoryid="121100" code="067">化验/检验</item>
+      <item categoryid="121100" code="069">仓库物料</item>
+      <item categoryid="121100" code="070">采购管理</item>
+      <item categoryid="121100" code="592">包装工程师</item>
+      <item categoryid="121100" code="593">材料工程师</item>
+      <item categoryid="121100" code="077">其他</item>
+      <item categoryid="4010300" code="4010300">交通运输</item>
+      <item categoryid="4010300" code="246">司机/驾驶员</item>
+      <item categoryid="4010300" code="245">航空/列车/船舶操作维修</item>
+      <item categoryid="4010300" code="489">航空/列车/船舶乘务</item>
+      <item categoryid="4010300" code="594">公交/地铁</item>
+      <item categoryid="4010300" code="595">飞机/列车/船舶设计与制造</item>
+      <item categoryid="4010300" code="248">其他</item>
+      <item categoryid="7005000" code="7005000">服装/纺织/食品/饮料</item>
+      <item categoryid="7005000" code="155">服装/店面/纺织设计</item>
+      <item categoryid="7005000" code="521">面料辅料开发/采购</item>
+      <item categoryid="7005000" code="522">服装打样/制版</item>
+      <item categoryid="7005000" code="517">项目经理/主管</item>
+      <item categoryid="7005000" code="518">生产管理</item>
+      <item categoryid="7005000" code="520">服装/纺织/皮革跟单</item>
+      <item categoryid="7005000" code="516">销售/市场推广</item>
+      <item categoryid="7005000" code="519">质量管理/验货员(QA/QC)</item>
+      <item categoryid="7005000" code="523">样衣工</item>
+      <item categoryid="7005000" code="524">裁床</item>
+      <item categoryid="7005000" code="596">食品/饮料研发检验</item>
+      <item categoryid="7005000" code="525">其他</item>
+      <item categoryid="4010400" code="4010400">物流/仓储</item>
+      <item categoryid="4010400" code="241">物流总监/经理</item>
+      <item categoryid="4010400" code="597">物流主管</item>
+      <item categoryid="4010400" code="242">物流专员/助理</item>
+      <item categoryid="4010400" code="243">仓库经理/主管</item>
+      <item categoryid="4010400" code="244">仓库/物料管理员</item>
+      <item categoryid="4010400" code="488">供应链管理</item>
+      <item categoryid="4010400" code="353">运输经理/主管</item>
+      <item categoryid="4010400" code="247">快递员/速递员</item>
+      <item categoryid="4010400" code="394">调度员</item>
+      <item categoryid="4010400" code="490">单证员</item>
+      <item categoryid="4010400" code="491">搬运工</item>
+      <item categoryid="4010400" code="598">其他</item>
+      <item categoryid="5004000" code="5004000">技工</item>
+      <item categoryid="5004000" code="339">车床/磨床/铣床/冲床工</item>
+      <item categoryid="5004000" code="338">钳工/钣工</item>
+      <item categoryid="5004000" code="337">电焊工/铆焊工</item>
+      <item categoryid="5004000" code="599">电工</item>
+      <item categoryid="5004000" code="336">汽车修理工/机修工</item>
+      <item categoryid="5004000" code="342">水工/木工/油漆工</item>
+      <item categoryid="5004000" code="343">模具工</item>
+      <item categoryid="5004000" code="344">普工</item>
+      <item categoryid="5004000" code="341">铲车/叉车工</item>
+      <item categoryid="5004000" code="340">空调工/电梯工/锅炉工</item>
+      <item categoryid="5004000" code="345">其他</item>
+      <item categoryid="2023405" code="2023405">质控/安防</item>
+      <item categoryid="2023405" code="249">质量管理/测试经理(QA/QC经理)</item>
+      <item categoryid="2023405" code="250">质量管理/测试主管(QA/QC主管)</item>
+      <item categoryid="2023405" code="252">质量检验员/测试员</item>
+      <item categoryid="2023405" code="251">质量管理/测试工程师(QA/QC工程师)</item>
+      <item categoryid="2023405" code="384">安全消防</item>
+      <item categoryid="2023405" code="253">认证/体系工程师/审核员</item>
+      <item categoryid="2023405" code="330">供应商/采购设备与材料质量管理</item>
+      <item categoryid="2023405" code="331">安全管理</item>
+      <item categoryid="2023405" code="529">HSE工程师</item>
+      <item categoryid="2023405" code="254">其他</item>
+      <item categoryid="4082000" code="4082000">市场/营销</item>
+      <item categoryid="4082000" code="158">市场总监</item>
+      <item categoryid="4082000" code="159">市场营销经理</item>
+      <item categoryid="4082000" code="311">市场拓展经理/主管</item>
+      <item categoryid="4082000" code="171">市场专员/市场助理</item>
+      <item categoryid="4082000" code="600">市场经理</item>
+      <item categoryid="4082000" code="601">市场营销主管</item>
+      <item categoryid="4082000" code="602">市场拓展专员/助理</item>
+      <item categoryid="4082000" code="160">市场营销专员/助理</item>
+      <item categoryid="4082000" code="168">产品/品牌经理</item>
+      <item categoryid="4082000" code="603">产品/品牌主管</item>
+      <item categoryid="4082000" code="170">产品/品牌专员/助理</item>
+      <item categoryid="4082000" code="604">市场主管</item>
+      <item categoryid="4082000" code="167">市场调研与分析</item>
+      <item categoryid="4082000" code="161">市场策划/企划经理/主管</item>
+      <item categoryid="4082000" code="605">市场策划/企划专员/助理</item>
+      <item categoryid="4082000" code="166">促销督导</item>
+      <item categoryid="4082000" code="172">会务专员</item>
+      <item categoryid="4082000" code="174">其他</item>
+      <item categoryid="4084000" code="4084000">公关/媒介</item>
+      <item categoryid="4084000" code="162">公关总监/经理</item>
+      <item categoryid="4084000" code="606">公关主管</item>
+      <item categoryid="4084000" code="163">公关专员/助理</item>
+      <item categoryid="4084000" code="164">媒介经理/主管</item>
+      <item categoryid="4084000" code="165">媒介专员/媒介购买</item>
+      <item categoryid="4084000" code="607">其他</item>
+      <item categoryid="2100708" code="2100708">美术/设计/创意</item>
+      <item categoryid="2100708" code="153">创意指导/总监</item>
+      <item categoryid="2100708" code="184">美术编辑/美术设计</item>
+      <item categoryid="2100708" code="150">产品/包装设计</item>
+      <item categoryid="2100708" code="156">展示/装潢设计</item>
+      <item categoryid="2100708" code="149">平面设计</item>
+      <item categoryid="2100708" code="366">家具设计</item>
+      <item categoryid="2100708" code="365">工艺品/珠宝设计</item>
+      <item categoryid="2100708" code="532">店面/陈列/展览设计</item>
+      <item categoryid="2100708" code="151">多媒体/动画设计</item>
+      <item categoryid="2100708" code="533">印刷排版/制版</item>
+      <item categoryid="2100708" code="364">设计管理人员</item>
+      <item categoryid="2100708" code="608">CAD设计/制图</item>
+      <item categoryid="2100708" code="157">其他</item>
+      <item categoryid="7004000" code="7004000">广告/会展</item>
+      <item categoryid="7004000" code="506">客户总监/经理</item>
+      <item categoryid="7004000" code="507">客户主管/专员</item>
+      <item categoryid="7004000" code="609">项目管理</item>
+      <item categoryid="7004000" code="508">业务拓展</item>
+      <item categoryid="7004000" code="513">媒介策划/管理</item>
+      <item categoryid="7004000" code="510">设计/创意管理</item>
+      <item categoryid="7004000" code="610">会展策划/设计</item>
+      <item categoryid="7004000" code="511">企业策划人员</item>
+      <item categoryid="7004000" code="509">文案策划</item>
+      <item categoryid="7004000" code="611">婚礼策划服务</item>
+      <item categoryid="7004000" code="512">美术指导</item>
+      <item categoryid="7004000" code="514">制作执行</item>
+      <item categoryid="7004000" code="515">其他</item>
+      <item categoryid="2120000" code="2120000">传媒/影视/报刊/出版/印刷</item>
+      <item categoryid="2120000" code="175">导演/编导/影视制作</item>
+      <item categoryid="2120000" code="367">总编/副总编/主编</item>
+      <item categoryid="2120000" code="180">艺术指导/舞美设计</item>
+      <item categoryid="2120000" code="179">摄影师/摄像师</item>
+      <item categoryid="2120000" code="185">后期制作/音效师</item>
+      <item categoryid="2120000" code="177">主持人/演员/模特/配音</item>
+      <item categoryid="2120000" code="176">编辑/撰稿</item>
+      <item categoryid="2120000" code="612">记者/采编</item>
+      <item categoryid="2120000" code="152">文案/策划</item>
+      <item categoryid="2120000" code="395">校对/录入</item>
+      <item categoryid="2120000" code="183">出版/发行</item>
+      <item categoryid="2120000" code="181">排版设计/完稿/美编</item>
+      <item categoryid="2120000" code="613">印刷操作</item>
+      <item categoryid="2120000" code="182">化妆师/造型师/服装/道具</item>
+      <item categoryid="2120000" code="178">经纪人</item>
+      <item categoryid="2120000" code="186">其他</item>
+      <item categoryid="121300" code="121300">生物工程/制药/医疗器械</item>
+      <item categoryid="121300" code="296">医药代表</item>
+      <item categoryid="121300" code="378">医疗器械推广</item>
+      <item categoryid="121300" code="295">产品研发/注册</item>
+      <item categoryid="121300" code="495">项目经理/主管</item>
+      <item categoryid="121300" code="294">药品生产/质量管理</item>
+      <item categoryid="121300" code="292">生物工程/生物制药</item>
+      <item categoryid="121300" code="496">招商经理/主管</item>
+      <item categoryid="121300" code="293">临床研究/协调</item>
+      <item categoryid="121300" code="297">其他</item>
+      <item categoryid="120500" code="120500">化工</item>
+      <item categoryid="120500" code="023">化工工程师</item>
+      <item categoryid="120500" code="396">化学分析</item>
+      <item categoryid="120500" code="371">化学制剂研发</item>
+      <item categoryid="120500" code="111">化学操作</item>
+      <item categoryid="120500" code="112">化学技术</item>
+      <item categoryid="120500" code="502">研发工程师</item>
+      <item categoryid="120500" code="503">项目经理/主管</item>
+      <item categoryid="120500" code="614">塑料工程师</item>
+      <item categoryid="120500" code="504">实验技术员/研究员</item>
+      <item categoryid="120500" code="505">油漆/化工涂料</item>
+      <item categoryid="120500" code="113">其他</item>
+      <item categoryid="2023100" code="2023100">环境科学/环保</item>
+      <item categoryid="2023100" code="615">污水处理工程师</item>
+      <item categoryid="2023100" code="266">环境工程技术/园林景区</item>
+      <item categoryid="2023100" code="379">环境管理/保护</item>
+      <item categoryid="2023100" code="380">环保技术</item>
+      <item categoryid="2023100" code="616">EHS管理</item>
+      <item categoryid="2023100" code="267">其他</item>
+      <item categoryid="130000" code="130000">能源/矿产/地质勘查</item>
+      <item categoryid="130000" code="534">项目经理/主管</item>
+      <item categoryid="130000" code="284">石油天然气技术人员</item>
+      <item categoryid="130000" code="285">空调/热能工程师</item>
+      <item categoryid="130000" code="290">核力/火力工程师</item>
+      <item categoryid="130000" code="286">电力工程师/技术员</item>
+      <item categoryid="130000" code="372">地质勘查/选矿/采矿</item>
+      <item categoryid="130000" code="617">水利/水电工程师</item>
+      <item categoryid="130000" code="291">其他</item>
+      <item categoryid="1050000" code="1050000">高级管理</item>
+      <item categoryid="1050000" code="136">首席执行官CEO/总裁/总经理</item>
+      <item categoryid="1050000" code="138">首席运营官COO/运营总监</item>
+      <item categoryid="1050000" code="139">首席财务官CFO</item>
+      <item categoryid="1050000" code="137">首席技术官CTO/首席信息官CIO</item>
+      <item categoryid="1050000" code="140">副总裁/副总经理</item>
+      <item categoryid="1050000" code="142">总裁助理/总经理助理</item>
+      <item categoryid="1050000" code="144">总监</item>
+      <item categoryid="1050000" code="141">分公司经理/代表处首代</item>
+      <item categoryid="1050000" code="143">合伙人</item>
+      <item categoryid="1050000" code="148">其他</item>
+      <item categoryid="5002000" code="5002000">人力资源</item>
+      <item categoryid="5002000" code="120">人力资源总监</item>
+      <item categoryid="5002000" code="121">人力资源经理</item>
+      <item categoryid="5002000" code="618">人力资源主管</item>
+      <item categoryid="5002000" code="122">人力资源专员/助理</item>
+      <item categoryid="5002000" code="125">培训经理/主管</item>
+      <item categoryid="5002000" code="126">培训专员/助理/培训师</item>
+      <item categoryid="5002000" code="124">招聘专员/助理</item>
+      <item categoryid="5002000" code="123">招聘经理/主管</item>
+      <item categoryid="5002000" code="127">薪酬福利管理</item>
+      <item categoryid="5002000" code="619">绩效考核管理</item>
+      <item categoryid="5002000" code="620">员工关系/企业文化/工会</item>
+      <item categoryid="5002000" code="128">猎头顾问/助理</item>
+      <item categoryid="5002000" code="130">其他</item>
+      <item categoryid="3010000" code="3010000">行政/后勤/文秘</item>
+      <item categoryid="3010000" code="328">行政总监</item>
+      <item categoryid="3010000" code="621">行政主管</item>
+      <item categoryid="3010000" code="114">行政经理/办公室主任</item>
+      <item categoryid="3010000" code="115">行政专员/助理</item>
+      <item categoryid="3010000" code="116">助理/秘书</item>
+      <item categoryid="3010000" code="117">前台/总机/接待</item>
+      <item categoryid="3010000" code="119">后勤人员</item>
+      <item categoryid="3010000" code="497">合同管理</item>
+      <item categoryid="3010000" code="498">电脑操作/打字/录入员</item>
+      <item categoryid="3010000" code="622">文员</item>
+      <item categoryid="3010000" code="329">其他</item>
+      <item categoryid="2140000" code="2140000">咨询/顾问</item>
+      <item categoryid="2140000" code="216">咨询总监</item>
+      <item categoryid="2140000" code="217">咨询经理/主管</item>
+      <item categoryid="2140000" code="219">咨询顾问</item>
+      <item categoryid="2140000" code="220">专业顾问</item>
+      <item categoryid="2140000" code="221">情报信息分析</item>
+      <item categoryid="2140000" code="218">培训师</item>
+      <item categoryid="2140000" code="623">市场调研</item>
+      <item categoryid="2140000" code="222">其他</item>
+      <item categoryid="2090000" code="2090000">教育/培训</item>
+      <item categoryid="2090000" code="131">培训师/讲师</item>
+      <item categoryid="2090000" code="501">招生/课程顾问</item>
+      <item categoryid="2090000" code="360">教练</item>
+      <item categoryid="2090000" code="132">教学/教务管理人员</item>
+      <item categoryid="2090000" code="135">教育产品开发</item>
+      <item categoryid="2090000" code="359">家教</item>
+      <item categoryid="2090000" code="624">校长</item>
+      <item categoryid="2090000" code="358">大学教师</item>
+      <item categoryid="2090000" code="625">高中教师</item>
+      <item categoryid="2090000" code="626">职业中专/技校教师</item>
+      <item categoryid="2090000" code="627">初中教师</item>
+      <item categoryid="2090000" code="628">小学教师</item>
+      <item categoryid="2090000" code="361">幼教</item>
+      <item categoryid="2090000" code="134">其他</item>
+      <item categoryid="2080000" code="2080000">律师/法务/合规</item>
+      <item categoryid="2080000" code="223">律师/律师助理</item>
+      <item categoryid="2080000" code="225">法务经理/主管</item>
+      <item categoryid="2080000" code="224">律师/法务/合规顾问</item>
+      <item categoryid="2080000" code="363">律师/法务/合规部经理/主任</item>
+      <item categoryid="2080000" code="226">产权/专利顾问/专业代理</item>
+      <item categoryid="2080000" code="629">法务专员/助理</item>
+      <item categoryid="2080000" code="227">其他</item>
+      <item categoryid="2120500" code="2120500">翻译（口译与笔译）</item>
+      <item categoryid="2120500" code="268">英语类</item>
+      <item categoryid="2120500" code="271">法语类</item>
+      <item categoryid="2120500" code="269">日语类</item>
+      <item categoryid="2120500" code="270">德语类</item>
+      <item categoryid="2120500" code="272">俄语类</item>
+      <item categoryid="2120500" code="273">韩语类</item>
+      <item categoryid="2120500" code="630">西班牙语翻译</item>
+      <item categoryid="2120500" code="631">意大利语翻译</item>
+      <item categoryid="2120500" code="632">葡萄牙语翻译</item>
+      <item categoryid="2120500" code="633">阿拉伯语翻译</item>
+      <item categoryid="2120500" code="274">其他语种类</item>
+      <item categoryid="5005000" code="5005000">零售/百货/超市</item>
+      <item categoryid="5005000" code="017">店员/营业员/导购员</item>
+      <item categoryid="5005000" code="016">店长/卖场经理</item>
+      <item categoryid="5005000" code="355">理货员/陈列员</item>
+      <item categoryid="5005000" code="354">收银员</item>
+      <item categoryid="5005000" code="173">促销专员/导购</item>
+      <item categoryid="5005000" code="356">兼职店员</item>
+      <item categoryid="5005000" code="492">防损员/内保</item>
+      <item categoryid="5005000" code="493">招商经理/主管</item>
+      <item categoryid="5005000" code="494">奢侈品业务</item>
+      <item categoryid="5005000" code="634">品类管理</item>
+      <item categoryid="5005000" code="635">食品加工/处理</item>
+      <item categoryid="5005000" code="357">其他</item>
+      <item categoryid="4040000" code="4040000">酒店/餐饮/旅游/娱乐</item>
+      <item categoryid="4040000" code="281">酒店管理</item>
+      <item categoryid="4040000" code="276">大堂经理/领班</item>
+      <item categoryid="4040000" code="277">前厅接待/礼仪/迎宾</item>
+      <item categoryid="4040000" code="368">娱乐或餐饮管理</item>
+      <item categoryid="4040000" code="279">服务员</item>
+      <item categoryid="4040000" code="636">客房服务</item>
+      <item categoryid="4040000" code="275">厨师/面点师</item>
+      <item categoryid="4040000" code="369">调酒师/茶艺师</item>
+      <item categoryid="4040000" code="370">营养师</item>
+      <item categoryid="4040000" code="282">导游/票务</item>
+      <item categoryid="4040000" code="530">旅游顾问</item>
+      <item categoryid="4040000" code="531">计划调度/旅游产品</item>
+      <item categoryid="4040000" code="637">主持/司仪</item>
+      <item categoryid="4040000" code="638">救生员</item>
+      <item categoryid="4040000" code="280">保安</item>
+      <item categoryid="4040000" code="283">其他</item>
+      <item categoryid="2050000" code="2050000">保健/美容/美发/健身</item>
+      <item categoryid="2050000" code="377">美发/发型师</item>
+      <item categoryid="2050000" code="376">健身/美体/舞蹈教练</item>
+      <item categoryid="2050000" code="639">整形/美容/美甲</item>
+      <item categoryid="2050000" code="640">化妆师</item>
+      <item categoryid="2050000" code="641">按摩/足疗</item>
+      <item categoryid="2050000" code="234">其他</item>
+      <item categoryid="2051000" code="-1">医疗/护理</item>
+      <item categoryid="2051000" code="230">医药代表</item>
+      <item categoryid="2051000" code="229">医生/医师</item>
+      <item categoryid="2051000" code="397">护士/护理人员</item>
+      <item categoryid="2051000" code="642">内科医生</item>
+      <item categoryid="2051000" code="643">外科医生</item>
+      <item categoryid="2051000" code="644">儿科医生</item>
+      <item categoryid="2051000" code="645">牙科医生</item>
+      <item categoryid="2051000" code="646">中医科医生</item>
+      <item categoryid="2051000" code="647">麻醉医生</item>
+      <item categoryid="2051000" code="373">心理医生</item>
+      <item categoryid="2051000" code="648">眼科医生/验光师</item>
+      <item categoryid="2051000" code="232">药库主任/药剂师</item>
+      <item categoryid="2051000" code="374">医药质检</item>
+      <item categoryid="2051000" code="228">医疗管理人员</item>
+      <item categoryid="2051000" code="649">营养师</item>
+      <item categoryid="2051000" code="233">宠物护理/兽医</item>
+      <item categoryid="2051000" code="375">针灸推拿</item>
+      <item categoryid="2051000" code="650">其他</item>
+      <item categoryid="6270000" code="6270000">保安/家政/普通劳动力</item>
+      <item categoryid="6270000" code="104">保安</item>
+      <item categoryid="6270000" code="651">保安保洁</item>
+      <item categoryid="6270000" code="309">保安普工</item>
+      <item categoryid="6270000" code="652">保安话务员</item>
+      <item categoryid="6270000" code="308">保安家政人员</item>
+      <item categoryid="6270000" code="310">保安其他</item>
+      <item categoryid="200100" code="200100">公务员/事业单位/科研机构</item>
+      <item categoryid="200100" code="305">公务员/事业单位</item>
+      <item categoryid="200100" code="362">科研管理人员</item>
+      <item categoryid="200100" code="255">科研人员</item>
+      <item categoryid="200100" code="653">人文/社会科学</item>
+      <item categoryid="200100" code="382">航空航天</item>
+      <item categoryid="200100" code="386">声光学技术·激光技术</item>
+      <item categoryid="200100" code="385">气象</item>
+      <item categoryid="200100" code="306">其他</item>
+      <item categoryid="100000" code="100000">农/林/牧/渔业</item>
+      <item categoryid="100000" code="263">农/林/牧/渔</item>
+      <item categoryid="100000" code="654">饲料业务</item>
+      <item categoryid="100000" code="655">养殖人员</item>
+      <item categoryid="100000" code="656">农艺师</item>
+      <item categoryid="100000" code="657">畜牧师</item>
+      <item categoryid="100000" code="264">其他</item>
+      <item categoryid="5006000" code="5006000">毕业生/实习生/培训生</item>
+      <item categoryid="5006000" code="658">志愿者</item>
+      <item categoryid="5006000" code="302">培训生</item>
+      <item categoryid="5006000" code="299">实习生</item>
+      <item categoryid="5006000" code="301">储备干部</item>
+      <item categoryid="5006000" code="298">毕业生</item>
+      <item categoryid="5006000" code="381">其他</item>
+      <item categoryid="1" code="1">兼职/临时</item>
+      <item categoryid="1" code="659">兼职</item>
+      <item categoryid="1" code="300">临时</item>
+      <item categoryid="1" code="303">其他</item>
+      <item categoryid="2" code="2">其他</item>
+      <item categoryid="2" code="304">其他</item>
+    </small_Job_type>
+    <url>
+      <item code="0101">http://wapinterface.zhaopin.com/iphone/start.aspx</item>
+      <item code="0201">http://wapinterface.zhaopin.com/iphone/search/searchjob.aspx</item>
+      <item code="0202">http://wapinterface.zhaopin.com/iphone/search/saveresult.aspx</item>
+      <item code="0203">http://wapinterface.zhaopin.com/iphone/job/batchaddposition.aspx</item>
+      <item code="0206">http://wapinterface.zhaopin.com/iphone/job/collectposition.aspx</item>
+      <item code="0207">http://wapinterface.zhaopin.com/iphone/search/searchsamejob.aspx</item>
+      <item code="0301">http://wapinterface.zhaopin.com/iphone/myzhaopin/loginmgr/login.aspx</item>
+      <item code="0303">http://wapinterface.zhaopin.com/iphone/myzhaopin/loginmgr/forgetpwd.aspx</item>
+      <item code="0304">http://wapinterface.zhaopin.com/iphone/myzhaopin/loginmgr/register.aspx</item>
+      <item code="0305">http://wapinterface.zhaopin.com/iphone/myzhaopin/setdefaultresume.aspx</item>
+      <item code="0306">http://wapinterface.zhaopin.com/iphone/myzhaopin/getcompanylist_showresume.aspx</item>
+      <item code="0307">http://wapinterface.zhaopin.com/iphone/company/showcompanydetail.aspx</item>
+      <item code="0308">http://wapinterface.zhaopin.com/iphone/myzhaopin/get_hr_email_list.aspx</item>
+      <item code="0309">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobmng_showmail.aspx</item>
+      <item code="0310">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobmng_mail_del.aspx</item>
+      <item code="0311">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobmng_applist.aspx</item>
+      <item code="0312">http://wapinterface.zhaopin.com/iphone/job/showjobdetail.aspx</item>
+      <item code="0313">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobmng_fav_list.aspx</item>
+      <item code="0315">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobmng_fav_del.aspx</item>
+      <item code="0316">http://wapinterface.zhaopin.com/iphone/job/batchaddposition.aspx</item>
+      <item code="0317">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobsearcher.aspx</item>
+      <item code="0318">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobsearcher_add.aspx</item>
+      <item code="0319">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobsearcher_edit.aspx</item>
+      <item code="0320">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobsearcher_del.aspx</item>
+      <item code="0321">http://wapinterface.zhaopin.com/iphone/job/searchjobs.aspx</item>
+      <item code="0323">http://wapinterface.zhaopin.com/iphone/myzhaopin/jobsearcher_set_interval.aspx</item>
+      <item code="0325">http://wapinterface.zhaopin.com/iphone/myzhaopin/resume_refresh.aspx</item>
+      <item code="0326">http://wapinterface.zhaopin.com/iphone/myzhaopin/getjobsearcherinfo.aspx</item>
+      <item code="0401">http://mobileinterface.zhaopin.com/iphone/article/channellist.service</item>
+      <item code="0402">http://mobileinterface.zhaopin.com/iphone/article/articlelist.service</item>
+      <item code="0403">http://mobileinterface.zhaopin.com/iphone/article/articledetail.service</item>
+      <item code="0501">http://mobileinterface.zhaopin.com/iphone/payquery/querylist.service</item>
+      <item code="0502">http://mobileinterface.zhaopin.com/iphone/payquery/query.service</item>
+      <item code="0503">http://mobileinterface.zhaopin.com/iphone/payquery/comparequery.service</item>
+      <item code="0601">http://wapinterface.zhaopin.com/iphone/job/recommendjob.aspx</item>
+      <item code="0701">http://wapinterface.zhaopin.com/iphone/myzhaopin/loginmgr/binding_iphone_device.aspx</item>
+    </url>
+    <map_range>
+      <item code="1">1公里</item>
+      <item code="3">3公里</item>
+      <item code="5">5公里</item>
+    </map_range>
+    <publishDate>
+      <item code="-1">不限</item>
+      <item code="1">今天</item>
+      <item code="3">最近三天</item>
+      <item code="7">最近一周</item>
+      <item code="30">最近一个月</item>
+    </publishDate>
+    <education>
+      <item code="-1">不限</item>
+      <item code="5">大专</item>
+      <item code="4">本科</item>
+      <item code="3">硕士</item>
+      <item code="1">博士</item>
+      <item code="10">MBA</item>
+      <item code="11">EMBA</item>
+      <item code="12">中专</item>
+      <item code="13">中技</item>
+      <item code="7">高中</item>
+      <item code="9">初中</item>
+      <item code="8">其他</item>      
+    </education>
+    <salary>
+      <item code="-1">不限</item>
+      <item code="0000001000">1000元/月以下</item>
+      <item code="0100002000">1000-2000元/月</item>
+      <item code="0200104000">2001-4000元/月</item>
+      <item code="0400106000">4001-6000元/月</item>
+      <item code="0600108000">6001-8000元/月</item>
+      <item code="0800110000">8001-10000元/月</item>
+      <item code="1000115000">10001-15000元/月</item>
+      <item code="1500125000">15000-25000元/月</item>
+      <item code="2500199999">25000元/月以上</item>
+      <item code="0000000000">面议</item>
+    </salary>
+    <employment_type>
+      <item code="-1">不限</item>
+      <item code="2">全职</item>
+      <item code="1">兼职</item>
+      <item code="4">实习</item>
+    </employment_type>
+    <workEXP>
+      <item code="-1">不限</item>
+      <item code="0000">无经验</item>
+      <item code="0001">1年以下</item>
+      <item code="0103">1-3年</item>
+      <item code="0305">3-5年</item>
+      <item code="0510">5-10年</item>
+      <item code="1099">10年以上</item>
+    </workEXP>
+  </basedata>
+</root>
